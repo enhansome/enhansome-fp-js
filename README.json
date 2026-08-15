@@ -14,7 +14,7 @@
             "last_commit": "2026-07-03T19:48:01Z",
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61326
+            "stars": 61289
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-07-26T15:18:52Z",
             "owner": "ramda",
             "repo": "ramda",
-            "stars": 24059
+            "stars": 24058
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T21:35:12Z",
+            "last_commit": "2026-08-15T21:12:26Z",
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 15275
+            "stars": 15289
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-10T23:33:38Z",
             "owner": "gvergnaud",
             "repo": "ts-pattern",
-            "stars": 15123
+            "stars": 15124
           }
         },
         {
@@ -123,7 +123,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-27T16:46:37Z",
+            "last_commit": "2026-08-15T21:36:12Z",
             "owner": "true-myth",
             "repo": "true-myth",
             "stars": 1356
@@ -833,10 +833,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T21:45:54Z",
+            "last_commit": "2026-08-15T21:22:48Z",
             "owner": "immutable-js",
             "repo": "immutable-js",
-            "stars": 33043
+            "stars": 33041
           }
         },
         {
@@ -850,7 +850,7 @@
             "last_commit": "2026-08-11T23:24:46Z",
             "owner": "immerjs",
             "repo": "immer",
-            "stars": 28978
+            "stars": 28976
           }
         },
         {
@@ -864,7 +864,7 @@
             "last_commit": "2020-07-15T20:12:33Z",
             "owner": "dtao",
             "repo": "lazy.js",
-            "stars": 5967
+            "stars": 5968
           }
         },
         {
@@ -906,7 +906,7 @@
             "last_commit": "2024-01-15T10:31:01Z",
             "owner": "funkia",
             "repo": "list",
-            "stars": 1653
+            "stars": 1652
           }
         },
         {
@@ -1038,7 +1038,7 @@
             "last_commit": "2026-02-14T23:23:06Z",
             "owner": "supermacro",
             "repo": "neverthrow",
-            "stars": 7671
+            "stars": 7673
           }
         },
         {
@@ -1052,7 +1052,7 @@
             "last_commit": "2024-11-10T16:48:46Z",
             "owner": "sanctuary-js",
             "repo": "sanctuary",
-            "stars": 3051
+            "stars": 3052
           }
         },
         {
@@ -1798,7 +1798,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T21:47:52.992Z",
+    "last_updated": "2026-08-15T21:43:07.456Z",
     "original_repository": "stoeffel/awesome-fp-js",
     "original_repository_sha": "f70c4c7906c1cad07bc143d899fee3f782bfcba7",
     "enhanced_repository": "enhansome/enhansome-fp-js",
