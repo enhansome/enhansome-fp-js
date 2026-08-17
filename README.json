@@ -14,7 +14,7 @@
             "last_commit": "2026-07-03T19:48:01Z",
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61286
+            "stars": 61292
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T21:38:13Z",
+            "last_commit": "2026-08-17T20:50:05Z",
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 15304
+            "stars": 15320
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2026-08-08T14:05:49Z",
             "owner": "marpple",
             "repo": "FxTS",
-            "stars": 1165
+            "stars": 1166
           }
         },
         {
@@ -627,7 +627,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-10T08:03:06Z",
+            "last_commit": "2026-08-17T08:03:14Z",
             "owner": "TeaEntityLab",
             "repo": "fpEs",
             "stars": 43
@@ -833,7 +833,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T07:14:53Z",
+            "last_commit": "2026-08-17T09:22:33Z",
             "owner": "immutable-js",
             "repo": "immutable-js",
             "stars": 33039
@@ -850,7 +850,7 @@
             "last_commit": "2026-08-16T03:11:09Z",
             "owner": "immerjs",
             "repo": "immer",
-            "stars": 28974
+            "stars": 28978
           }
         },
         {
@@ -1555,7 +1555,7 @@
             "last_commit": "2023-12-26T15:46:02Z",
             "owner": "getify",
             "repo": "Functional-Light-JS",
-            "stars": 16740
+            "stars": 16739
           }
         },
         {
@@ -1589,7 +1589,7 @@
             "last_commit": "2023-10-17T12:04:55Z",
             "owner": "hemanth",
             "repo": "functional-programming-jargon",
-            "stars": 18644
+            "stars": 18645
           }
         },
         {
@@ -1603,7 +1603,7 @@
             "last_commit": "2024-10-15T07:23:53Z",
             "owner": "you-dont-need",
             "repo": "You-Dont-Need-Loops",
-            "stars": 1173
+            "stars": 1174
           }
         }
       ],
@@ -1798,7 +1798,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T21:42:23.275Z",
+    "last_updated": "2026-08-17T21:48:48.780Z",
     "original_repository": "stoeffel/awesome-fp-js",
     "original_repository_sha": "f70c4c7906c1cad07bc143d899fee3f782bfcba7",
     "enhanced_repository": "enhansome/enhansome-fp-js",
