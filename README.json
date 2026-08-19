@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3955647,
             "language": "JavaScript",
             "last_commit": "2026-07-03T19:48:01Z",
             "owner": "lodash",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10851820,
             "language": "JavaScript",
             "last_commit": "2026-07-26T15:18:52Z",
             "owner": "ramda",
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 221458136,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T20:17:05Z",
+            "last_commit": "2026-08-19T11:16:31Z",
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 15331
+            "stars": 15344
           }
         },
         {
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 266582853,
             "language": "TypeScript",
             "last_commit": "2026-08-10T23:33:38Z",
             "owner": "gvergnaud",
             "repo": "ts-pattern",
-            "stars": 15127
+            "stars": 15128
           }
         },
         {
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13815852,
             "language": "JavaScript",
             "last_commit": "2022-12-06T17:07:17Z",
             "owner": "cujojs",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79035508,
             "language": "JavaScript",
             "last_commit": "2026-08-13T13:58:08Z",
             "owner": "selfrefactor",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44402648,
             "language": "JavaScript",
             "last_commit": "2026-07-20T20:12:58Z",
             "owner": "js-joda",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18667134,
             "language": "JavaScript",
             "last_commit": "2022-01-06T10:09:29Z",
             "owner": "tjmehta",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104394958,
             "language": "TypeScript",
             "last_commit": "2026-08-15T21:36:12Z",
             "owner": "true-myth",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 411941706,
             "language": "TypeScript",
             "last_commit": "2026-08-08T14:05:49Z",
             "owner": "marpple",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80776197,
             "language": "JavaScript",
             "last_commit": "2024-05-02T11:24:36Z",
             "owner": "smartprocure",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34197833,
             "language": "JavaScript",
             "last_commit": "2023-04-16T13:08:38Z",
             "owner": "1-liners",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81263716,
             "language": "JavaScript",
             "last_commit": "2026-08-18T00:00:46Z",
             "owner": "char0n",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 93436306,
             "language": "TypeScript",
             "last_commit": "2024-06-01T17:27:10Z",
             "owner": "funfix",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 189205816,
             "language": "JavaScript",
             "last_commit": "2025-07-11T20:39:43Z",
             "owner": "adobe",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 81842948,
             "language": "JavaScript",
             "last_commit": "2022-08-27T15:13:47Z",
             "owner": "getify",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60370221,
             "language": "JavaScript",
             "last_commit": "2022-05-31T15:15:09Z",
             "owner": "rpominov",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 322432444,
             "language": "TypeScript",
             "last_commit": "2025-12-16T18:04:59Z",
             "owner": "TomerAberbach",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 694090071,
             "language": "JavaScript",
             "last_commit": "2024-05-30T07:51:10Z",
             "owner": "laurentpayot",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 219276883,
             "language": "JavaScript",
             "last_commit": "2026-07-31T16:42:58Z",
             "owner": "a-synchronous",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175060977,
             "language": "JavaScript",
             "last_commit": "2024-05-08T02:23:53Z",
             "owner": "sultan99",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53286414,
             "language": "TypeScript",
             "last_commit": "2020-10-19T21:58:20Z",
             "owner": "concretesolutions",
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3484616,
             "language": "JavaScript",
             "last_commit": "2018-05-19T09:35:27Z",
             "owner": "bramstein",
@@ -332,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87567927,
             "language": "JavaScript",
             "last_commit": "2025-06-26T08:14:12Z",
             "owner": "selfrefactor",
@@ -346,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56892217,
             "language": "TypeScript",
             "last_commit": "2026-01-27T20:05:50Z",
             "owner": "functionaljs",
@@ -360,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69821712,
             "language": "JavaScript",
             "last_commit": "2025-06-02T13:12:47Z",
             "owner": "iter-tools",
@@ -374,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73802492,
             "language": "HTML",
             "last_commit": "2025-04-01T11:34:11Z",
             "owner": "tommmyy",
@@ -388,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 152748886,
             "language": "TypeScript",
             "last_commit": "2025-12-18T14:10:25Z",
             "owner": "samchon",
@@ -402,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59269174,
             "language": "JavaScript",
             "last_commit": "2026-03-01T23:03:31Z",
             "owner": "masala",
@@ -416,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11550874,
             "language": "JavaScript",
             "last_commit": "2014-07-09T17:13:07Z",
             "owner": "loop-recur",
@@ -430,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 284803323,
             "language": "JavaScript",
             "last_commit": "2020-12-30T15:43:52Z",
             "owner": "Debdut",
@@ -444,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43721994,
             "language": "JavaScript",
             "last_commit": "2019-12-11T21:34:02Z",
             "owner": "cullophid",
@@ -458,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47858117,
             "language": "JavaScript",
             "last_commit": "2017-10-26T14:09:18Z",
             "owner": "cullophid",
@@ -472,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 307775119,
             "language": "TypeScript",
             "last_commit": "2026-07-26T23:12:44Z",
             "owner": "mnasyrov",
@@ -486,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39484621,
             "language": "TypeScript",
             "last_commit": "2026-07-28T20:05:21Z",
             "owner": "alanrsoares",
@@ -500,6 +535,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28660565,
             "language": "JavaScript",
             "last_commit": "2019-11-07T17:23:59Z",
             "owner": "thisables",
@@ -514,6 +550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 656157926,
             "language": "TypeScript",
             "last_commit": "2025-09-11T07:09:11Z",
             "owner": "Oaxoa",
@@ -528,6 +565,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180745862,
             "language": "TypeScript",
             "last_commit": "2022-08-16T22:00:32Z",
             "owner": "tusharmath",
@@ -542,6 +580,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79500588,
             "language": "JavaScript",
             "last_commit": "2017-11-21T13:51:47Z",
             "owner": "trainyard",
@@ -556,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 674186339,
             "language": "TypeScript",
             "last_commit": "2024-08-22T06:22:53Z",
             "owner": "ENvironmentSet",
@@ -570,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28769775,
             "language": "JavaScript",
             "last_commit": "2019-11-07T17:21:19Z",
             "owner": "stoeffel",
@@ -584,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73375482,
             "language": "TypeScript",
             "last_commit": "2023-01-06T09:56:38Z",
             "owner": "joaomilho",
@@ -598,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32735041,
             "language": "JavaScript",
             "last_commit": "2015-03-31T19:52:11Z",
             "owner": "paldepind",
@@ -612,6 +655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56330133,
             "language": "JavaScript",
             "last_commit": "2017-12-19T07:01:12Z",
             "owner": "zhangchiqing",
@@ -626,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135992999,
             "language": "JavaScript",
             "last_commit": "2026-08-17T08:03:14Z",
             "owner": "TeaEntityLab",
@@ -640,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14562141,
             "language": "JavaScript",
             "last_commit": "2014-02-11T12:43:32Z",
             "owner": "AutoSponge",
@@ -654,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 882700065,
             "language": "TypeScript",
             "last_commit": "2025-03-30T05:34:43Z",
             "owner": "Snowflyt",
@@ -668,6 +715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 383312036,
             "language": "TypeScript",
             "last_commit": "2024-07-12T21:42:16Z",
             "owner": "mnasyrov",
@@ -682,6 +730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30568820,
             "language": "JavaScript",
             "last_commit": "2017-03-19T14:40:34Z",
             "owner": "algesten",
@@ -696,6 +745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 524566788,
             "language": "JavaScript",
             "last_commit": "2024-02-27T14:51:27Z",
             "owner": "PureEval",
@@ -710,6 +760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 271886787,
             "language": "TypeScript",
             "last_commit": "2026-03-26T09:57:37Z",
             "owner": "darky",
@@ -724,6 +775,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29449751,
             "language": "CoffeeScript",
             "last_commit": "2015-12-05T04:26:35Z",
             "owner": "algesten",
@@ -738,6 +790,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15502964,
             "language": "JavaScript",
             "last_commit": "2014-01-08T19:47:45Z",
             "owner": "thunklife",
@@ -752,6 +805,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 415416603,
             "language": "TypeScript",
             "last_commit": "2025-05-23T12:53:51Z",
             "owner": "darky",
@@ -766,6 +820,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 415357590,
             "language": "TypeScript",
             "last_commit": "2026-03-20T22:08:48Z",
             "owner": "darky",
@@ -780,6 +835,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 758598999,
             "language": "TypeScript",
             "last_commit": "2024-12-29T19:12:06Z",
             "owner": "darky",
@@ -794,6 +850,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 882016651,
             "language": "TypeScript",
             "last_commit": "2026-03-22T21:17:24Z",
             "owner": "darky",
@@ -802,570 +859,586 @@
           }
         },
         {
-          "node_type": "item",
-          "title": "iterflow",
-          "description": "Powerful iterator utilities for TypeScript with statistical operations, windowing, and lazy evaluation. +TS",
-          "children": []
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Immutable.js",
+              "description": "Immutable persistent data collections.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21413198,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T09:22:33Z",
+                "owner": "immutable-js",
+                "repo": "immutable-js",
+                "stars": 33039
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Immer",
+              "description": "Immer is a tiny package for immutable state based on copy-on-write mechanism. +TS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115720575,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T07:57:23Z",
+                "owner": "immerjs",
+                "repo": "immer",
+                "stars": 28980
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lazy.js",
+              "description": "A utility library with a lazy engine under the hood that strives to do as little work as possible while being as flexible as possible.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9983223,
+                "language": "JavaScript",
+                "last_commit": "2020-07-15T20:12:33Z",
+                "owner": "dtao",
+                "repo": "lazy.js",
+                "stars": 5968
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mori",
+              "description": "ClojureScript’s persistent data structures and supporting API from the comfort of vanilla JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4292299,
+                "language": "Clojure",
+                "last_commit": "2026-03-06T23:41:00Z",
+                "owner": "swannodette",
+                "repo": "mori",
+                "stars": 3369
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Baobab",
+              "description": "persistent and optionally immutable data tree with cursors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27480700,
+                "language": "JavaScript",
+                "last_commit": "2022-05-10T23:49:10Z",
+                "owner": "Yomguithereal",
+                "repo": "baobab",
+                "stars": 3156
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "List",
+              "description": "An extremely fast immutable list with a comprehensive functional API. Designed to seamlessly integrate with Ramda.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68184811,
+                "language": "TypeScript",
+                "last_commit": "2024-01-15T10:31:01Z",
+                "owner": "funkia",
+                "repo": "list",
+                "stars": 1651
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TSTL",
+              "description": "C++ STL (Standard Template Library) is implemented in TypeScript. STL Containers, iterators, algorithms and functors, that following functional programming rule, are provided. +TS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50482588,
+                "language": "TypeScript",
+                "last_commit": "2026-05-22T03:05:00Z",
+                "owner": "samchon",
+                "repo": "tstl",
+                "stars": 631
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DerivableJS",
+              "description": "Functional Reactive State for JavaScript and TypeScript. DerivableJS enables you to make elegant declarative statements about how your bits of state are related. +TS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38574577,
+                "language": "JavaScript",
+                "last_commit": "2018-05-26T10:21:10Z",
+                "owner": "ds300",
+                "repo": "derivablejs",
+                "stars": 519
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Icepick",
+              "description": "Utilities for treating frozen JavaScript objects as persistent immutable collections",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23807560,
+                "language": "JavaScript",
+                "last_commit": "2021-08-09T22:16:11Z",
+                "owner": "aearly",
+                "repo": "icepick",
+                "stars": 421
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "prelude.ts",
+              "description": "Immutable persistent collections, functional constructs such as Option and Either, and combinators. Implemented in Typescript but supports javascript too. +CT, +TS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102025808,
+                "language": "TypeScript",
+                "last_commit": "2024-03-12T14:54:24Z",
+                "owner": "emmanueltouzery",
+                "repo": "prelude-ts",
+                "stars": 383
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "collectable",
+              "description": "Super high-performance immutable data structures for modern JavaScript and TypeScript applications. +TS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71999171,
+                "language": "TypeScript",
+                "last_commit": "2023-03-06T05:28:35Z",
+                "owner": "frptools",
+                "repo": "collectable",
+                "stars": 279
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "imlazy",
+              "description": "Library for creating and manipulating lazy iterables using the ES2015 iteration protocols.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45711354,
+                "language": "JavaScript",
+                "last_commit": "2026-04-02T15:22:08Z",
+                "owner": "benji6",
+                "repo": "imlazy",
+                "stars": 104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "immutable-sequence.js",
+              "description": "High performance implementation of Immutable Sequence in JavaScript, based on Finger Trees.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21871518,
+                "language": "JavaScript",
+                "last_commit": "2015-08-10T04:00:58Z",
+                "owner": "qiao",
+                "repo": "immutable-sequence.js",
+                "stars": 15
+              }
+            }
+          ],
+          "description": "Write performant functional code by using the right data structures for the task.",
+          "node_type": "group",
+          "title": "Data Structures"
         },
         {
-          "node_type": "item",
-          "title": "claire",
-          "description": "A property-based testing library for clearly specifying code invariants and behaviour.",
-          "children": []
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fantasy Land",
+              "description": "Not a library, but a specification of the Monad laws for libraries to follow.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9385519,
+                "language": "JavaScript",
+                "last_commit": "2024-11-10T21:50:53Z",
+                "owner": "fantasyland",
+                "repo": "fantasy-land",
+                "stars": 10240
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NeverThrow",
+              "description": "This package contains a type that represents either success () or failure ().",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 183857874,
+                "language": "TypeScript",
+                "last_commit": "2026-02-14T23:23:06Z",
+                "owner": "supermacro",
+                "repo": "neverthrow",
+                "stars": 7675
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sanctuary",
+              "description": "Sanctuary makes it possible to write safe code without null checks. +CT, +TS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29455960,
+                "language": "JavaScript",
+                "last_commit": "2024-11-10T16:48:46Z",
+                "owner": "sanctuary-js",
+                "repo": "sanctuary",
+                "stars": 3052
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fluture",
+              "description": "A Future library with included control utilities, high performance and great error messages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53253439,
+                "language": "JavaScript",
+                "last_commit": "2024-04-22T19:36:55Z",
+                "owner": "fluture-js",
+                "repo": "Fluture",
+                "stars": 2494
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "purify",
+              "description": "Functional programming library for TypeScript focusing on ADTs. +CT, +TS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120522605,
+                "language": "TypeScript",
+                "last_commit": "2025-12-16T09:02:32Z",
+                "owner": "gigobyte",
+                "repo": "purify",
+                "stars": 1603
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "crocks",
+              "description": "A collection of popular Algebraic Data Types with the main goal to curate and provide not only a common interface between each type, but also all of the helper functions needed to hit the ground running. -TS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62473217,
+                "language": "JavaScript",
+                "last_commit": "2023-01-06T01:32:51Z",
+                "owner": "evilsoft",
+                "repo": "crocks",
+                "stars": 1598
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Static Land",
+              "description": "Specification similar to Fantasy Land but based on static methods rather than instance methods.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53745720,
+                "language": "JavaScript",
+                "last_commit": "2019-10-29T13:34:03Z",
+                "owner": "fantasyland",
+                "repo": "static-land",
+                "stars": 776
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "daggy",
+              "description": "Library for creating tagged constructors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10384029,
+                "language": "JavaScript",
+                "last_commit": "2021-07-19T10:37:27Z",
+                "owner": "fantasyland",
+                "repo": "daggy",
+                "stars": 708
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pratica",
+              "description": "Small, simple, easy FP data types for pragmatic and productive developers who need to ship reliable code fast. +CT, +TS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 170429491,
+                "language": "TypeScript",
+                "last_commit": "2024-06-05T15:45:57Z",
+                "owner": "rametta",
+                "repo": "pratica",
+                "stars": 490
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "immutable-ext",
+              "description": "FantasyLand extensions for Immutable.js.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54686525,
+                "language": "JavaScript",
+                "last_commit": "2019-02-10T20:33:36Z",
+                "owner": "DrBoolean",
+                "repo": "immutable-ext",
+                "stars": 489
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "union-type",
+              "description": "A small JavaScript library for defining and using union types.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35621932,
+                "language": "JavaScript",
+                "last_commit": "2019-06-05T12:33:58Z",
+                "owner": "paldepind",
+                "repo": "union-type",
+                "stars": 479
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sweet-monads",
+              "description": "A collection of popular monads (such as and ) and the lazy iterator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 207871270,
+                "language": "TypeScript",
+                "last_commit": "2024-11-18T23:57:13Z",
+                "owner": "JSMonk",
+                "repo": "sweet-monads",
+                "stars": 354
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "freeky",
+              "description": "A collection of Free monads.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53267871,
+                "language": "JavaScript",
+                "last_commit": "2018-04-13T12:12:30Z",
+                "owner": "DrBoolean",
+                "repo": "freeky",
+                "stars": 176
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MojiScript",
+              "description": "an async-first, opinionated, and functional language designed to have 100% compatibility with JavaScript engines",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146668600,
+                "language": "JavaScript",
+                "last_commit": "2023-07-19T05:30:21Z",
+                "owner": "joelnet",
+                "repo": "MojiScript",
+                "stars": 147
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fantasy-birds",
+              "description": "Port of the Haskell package Data.Aviary.Birds. Everything for your combinatory needs.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 51715347,
+                "language": "JavaScript",
+                "last_commit": "2016-10-22T16:13:52Z",
+                "owner": "fantasyland",
+                "repo": "fantasy-birds",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fantasy-combinators",
+              "description": "Common combinators.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 13914188,
+                "language": "JavaScript",
+                "last_commit": "2016-01-11T17:15:37Z",
+                "owner": "fantasyland",
+                "repo": "fantasy-combinators",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kudo-js",
+              "description": "A small utility library with a set of Algebraic Data Types and Helper functions to help you write code in a functional programming style in Javascript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114736229,
+                "language": "TypeScript",
+                "last_commit": "2026-01-21T23:37:11Z",
+                "owner": "ritesh404",
+                "repo": "kudojs",
+                "stars": 23
+              }
+            }
+          ],
+          "description": "Use the laws of math instead of always reinventing your own thing. Algebraic!",
+          "node_type": "group",
+          "title": "Algebraic Data Types"
         },
         {
-          "node_type": "item",
-          "title": "fp-multik",
-          "description": "JS/TS lightweight value-multimethod util",
-          "children": []
+          "children": [
+            {
+              "node_type": "item",
+              "title": "partial.lenses",
+              "description": "Partial lenses is a comprehensive, high-performance optics library for JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50582234,
+                "language": "JavaScript",
+                "last_commit": "2021-11-18T13:19:33Z",
+                "owner": "calmm-js",
+                "repo": "partial.lenses",
+                "stars": 922
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "shades",
+              "description": "A lodash-inspired lens-like library for Javascript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67984466,
+                "language": "JavaScript",
+                "last_commit": "2024-06-13T18:40:53Z",
+                "owner": "jamesmcnamara",
+                "repo": "shades",
+                "stars": 418
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lenses",
+              "description": "Composable kmett style lenses.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15570912,
+                "language": "JavaScript",
+                "last_commit": "2015-09-28T15:38:11Z",
+                "owner": "DrBoolean",
+                "repo": "lenses",
+                "stars": 216
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ramda-lens",
+              "description": ":ram: :mag_right: Lens library built on Ramda.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49837740,
+                "language": "JavaScript",
+                "last_commit": "2017-06-13T23:59:04Z",
+                "owner": "ramda",
+                "repo": "ramda-lens",
+                "stars": 184
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nanoscope",
+              "description": "Lenses with dotty support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27691779,
+                "language": "CSS",
+                "last_commit": "2016-12-09T18:25:24Z",
+                "owner": "5outh",
+                "repo": "nanoscope",
+                "stars": 178
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fantasy-lenses",
+              "description": "Composable, immutable getters and setters. (Profunctor lenses WIP)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 11539569,
+                "language": "JavaScript",
+                "last_commit": "2016-02-17T19:03:18Z",
+                "owner": "fantasyland",
+                "repo": "fantasy-lenses",
+                "stars": 108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "optics",
+              "description": "Profunctor optics (Lens, Prism, iso).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51406335,
+                "language": "JavaScript",
+                "last_commit": "2016-05-05T00:02:32Z",
+                "owner": "flunc",
+                "repo": "optics",
+                "stars": 87
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Lenses"
         }
       ],
       "title": "Libraries"
     },
     {
-      "description": "Write performant functional code by using the right data structures for the task.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Immutable.js",
-          "description": "Immutable persistent data collections.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T09:22:33Z",
-            "owner": "immutable-js",
-            "repo": "immutable-js",
-            "stars": 33039
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Immer",
-          "description": "Immer is a tiny package for immutable state based on copy-on-write mechanism. +TS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-16T03:11:09Z",
-            "owner": "immerjs",
-            "repo": "immer",
-            "stars": 28979
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lazy.js",
-          "description": "A utility library with a lazy engine under the hood that strives to do as little work as possible while being as flexible as possible.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-07-15T20:12:33Z",
-            "owner": "dtao",
-            "repo": "lazy.js",
-            "stars": 5968
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mori",
-          "description": "ClojureScript’s persistent data structures and supporting API from the comfort of vanilla JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2026-03-06T23:41:00Z",
-            "owner": "swannodette",
-            "repo": "mori",
-            "stars": 3369
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Baobab",
-          "description": "persistent and optionally immutable data tree with cursors.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-05-10T23:49:10Z",
-            "owner": "Yomguithereal",
-            "repo": "baobab",
-            "stars": 3156
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "List",
-          "description": "An extremely fast immutable list with a comprehensive functional API. Designed to seamlessly integrate with Ramda.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-01-15T10:31:01Z",
-            "owner": "funkia",
-            "repo": "list",
-            "stars": 1651
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TSTL",
-          "description": "C++ STL (Standard Template Library) is implemented in TypeScript. STL Containers, iterators, algorithms and functors, that following functional programming rule, are provided. +TS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-22T03:05:00Z",
-            "owner": "samchon",
-            "repo": "tstl",
-            "stars": 631
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DerivableJS",
-          "description": "Functional Reactive State for JavaScript and TypeScript. DerivableJS enables you to make elegant declarative statements about how your bits of state are related. +TS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-05-26T10:21:10Z",
-            "owner": "ds300",
-            "repo": "derivablejs",
-            "stars": 519
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Icepick",
-          "description": "Utilities for treating frozen JavaScript objects as persistent immutable collections",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-08-09T22:16:11Z",
-            "owner": "aearly",
-            "repo": "icepick",
-            "stars": 421
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "prelude.ts",
-          "description": "Immutable persistent collections, functional constructs such as Option and Either, and combinators. Implemented in Typescript but supports javascript too. +CT, +TS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-03-12T14:54:24Z",
-            "owner": "emmanueltouzery",
-            "repo": "prelude-ts",
-            "stars": 383
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "collectable",
-          "description": "Super high-performance immutable data structures for modern JavaScript and TypeScript applications. +TS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-03-06T05:28:35Z",
-            "owner": "frptools",
-            "repo": "collectable",
-            "stars": 279
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "imlazy",
-          "description": "Library for creating and manipulating lazy iterables using the ES2015 iteration protocols.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-04-02T15:22:08Z",
-            "owner": "benji6",
-            "repo": "imlazy",
-            "stars": 104
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "immutable-sequence.js",
-          "description": "High performance implementation of Immutable Sequence in JavaScript, based on Finger Trees.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2015-08-10T04:00:58Z",
-            "owner": "qiao",
-            "repo": "immutable-sequence.js",
-            "stars": 15
-          }
-        }
-      ],
-      "title": "Data Structures"
-    },
-    {
-      "description": "Use the laws of math instead of always reinventing your own thing. Algebraic!",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Fantasy Land",
-          "description": "Not a library, but a specification of the Monad laws for libraries to follow.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-11-10T21:50:53Z",
-            "owner": "fantasyland",
-            "repo": "fantasy-land",
-            "stars": 10240
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NeverThrow",
-          "description": "This package contains a type that represents either success () or failure ().",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-02-14T23:23:06Z",
-            "owner": "supermacro",
-            "repo": "neverthrow",
-            "stars": 7674
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sanctuary",
-          "description": "Sanctuary makes it possible to write safe code without null checks. +CT, +TS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-11-10T16:48:46Z",
-            "owner": "sanctuary-js",
-            "repo": "sanctuary",
-            "stars": 3052
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fluture",
-          "description": "A Future library with included control utilities, high performance and great error messages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-04-22T19:36:55Z",
-            "owner": "fluture-js",
-            "repo": "Fluture",
-            "stars": 2494
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "purify",
-          "description": "Functional programming library for TypeScript focusing on ADTs. +CT, +TS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-12-16T09:02:32Z",
-            "owner": "gigobyte",
-            "repo": "purify",
-            "stars": 1603
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "crocks",
-          "description": "A collection of popular Algebraic Data Types with the main goal to curate and provide not only a common interface between each type, but also all of the helper functions needed to hit the ground running. -TS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-06T01:32:51Z",
-            "owner": "evilsoft",
-            "repo": "crocks",
-            "stars": 1598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Static Land",
-          "description": "Specification similar to Fantasy Land but based on static methods rather than instance methods.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-10-29T13:34:03Z",
-            "owner": "fantasyland",
-            "repo": "static-land",
-            "stars": 776
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "daggy",
-          "description": "Library for creating tagged constructors.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-07-19T10:37:27Z",
-            "owner": "fantasyland",
-            "repo": "daggy",
-            "stars": 708
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pratica",
-          "description": "Small, simple, easy FP data types for pragmatic and productive developers who need to ship reliable code fast. +CT, +TS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-06-05T15:45:57Z",
-            "owner": "rametta",
-            "repo": "pratica",
-            "stars": 490
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "immutable-ext",
-          "description": "FantasyLand extensions for Immutable.js.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-02-10T20:33:36Z",
-            "owner": "DrBoolean",
-            "repo": "immutable-ext",
-            "stars": 489
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "union-type",
-          "description": "A small JavaScript library for defining and using union types.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-06-05T12:33:58Z",
-            "owner": "paldepind",
-            "repo": "union-type",
-            "stars": 479
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sweet-monads",
-          "description": "A collection of popular monads (such as and ) and the lazy iterator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-11-18T23:57:13Z",
-            "owner": "JSMonk",
-            "repo": "sweet-monads",
-            "stars": 354
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "freeky",
-          "description": "A collection of Free monads.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-04-13T12:12:30Z",
-            "owner": "DrBoolean",
-            "repo": "freeky",
-            "stars": 176
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MojiScript",
-          "description": "an async-first, opinionated, and functional language designed to have 100% compatibility with JavaScript engines",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-07-19T05:30:21Z",
-            "owner": "joelnet",
-            "repo": "MojiScript",
-            "stars": 147
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fantasy-birds",
-          "description": "Port of the Haskell package Data.Aviary.Birds. Everything for your combinatory needs.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2016-10-22T16:13:52Z",
-            "owner": "fantasyland",
-            "repo": "fantasy-birds",
-            "stars": 94
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fantasy-combinators",
-          "description": "Common combinators.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2016-01-11T17:15:37Z",
-            "owner": "fantasyland",
-            "repo": "fantasy-combinators",
-            "stars": 66
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kudo-js",
-          "description": "A small utility library with a set of Algebraic Data Types and Helper functions to help you write code in a functional programming style in Javascript",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-01-21T23:37:11Z",
-            "owner": "ritesh404",
-            "repo": "kudojs",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tifi",
-          "description": "Tifi is a library for functional programming in TypeScript. It solves a problem of the existence of both and . Tifi is inspired by the OCaml/Reason utilities for the option data type. +CT, +TS.",
-          "children": []
-        }
-      ],
-      "title": "Algebraic Data Types"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "partial.lenses",
-          "description": "Partial lenses is a comprehensive, high-performance optics library for JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-11-18T13:19:33Z",
-            "owner": "calmm-js",
-            "repo": "partial.lenses",
-            "stars": 922
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "shades",
-          "description": "A lodash-inspired lens-like library for Javascript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-06-13T18:40:53Z",
-            "owner": "jamesmcnamara",
-            "repo": "shades",
-            "stars": 418
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lenses",
-          "description": "Composable kmett style lenses.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2015-09-28T15:38:11Z",
-            "owner": "DrBoolean",
-            "repo": "lenses",
-            "stars": 216
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ramda-lens",
-          "description": ":ram: :mag_right: Lens library built on Ramda.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-06-13T23:59:04Z",
-            "owner": "ramda",
-            "repo": "ramda-lens",
-            "stars": 184
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nanoscope",
-          "description": "Lenses with dotty support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2016-12-09T18:25:24Z",
-            "owner": "5outh",
-            "repo": "nanoscope",
-            "stars": 178
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fantasy-lenses",
-          "description": "Composable, immutable getters and setters. (Profunctor lenses WIP)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2016-02-17T19:03:18Z",
-            "owner": "fantasyland",
-            "repo": "fantasy-lenses",
-            "stars": 108
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "optics",
-          "description": "Profunctor optics (Lens, Prism, iso).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2016-05-05T00:02:32Z",
-            "owner": "flunc",
-            "repo": "optics",
-            "stars": 87
-          }
-        }
-      ],
-      "title": "Lenses"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1374,11 +1447,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2080922,
             "language": "Clojure",
             "last_commit": "2026-08-10T01:25:46Z",
             "owner": "clojure",
             "repo": "clojurescript",
-            "stars": 9388
+            "stars": 9390
           }
         },
         {
@@ -1388,6 +1462,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 849182,
             "language": "Haskell",
             "last_commit": "2023-01-21T23:46:36Z",
             "owner": "ghcjs",
@@ -1402,6 +1477,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30160313,
             "language": "Elixir",
             "last_commit": "2019-08-20T14:46:14Z",
             "owner": "elixirscript",
@@ -1416,6 +1492,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43531497,
             "language": "PHP",
             "last_commit": "2020-09-30T16:41:19Z",
             "owner": "quack",
@@ -1430,6 +1507,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73753660,
             "language": "JavaScript",
             "last_commit": "2018-01-23T14:08:39Z",
             "owner": "yosbelms",
@@ -1444,6 +1522,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67341815,
             "language": "JavaScript",
             "last_commit": "2017-09-13T08:24:18Z",
             "owner": "ion-lang",
@@ -1458,6 +1537,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 388361182,
             "language": "Racket",
             "last_commit": "2021-08-30T18:19:22Z",
             "owner": "vishesh",
@@ -1469,7 +1549,7 @@
       "title": "Functional Languages that Compile to JavaScript"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1478,6 +1558,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61160796,
             "language": "JavaScript",
             "last_commit": "2021-01-01T22:02:02Z",
             "owner": "jfmengels",
@@ -1492,6 +1573,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82304022,
             "language": "JavaScript",
             "last_commit": "2022-12-03T15:42:33Z",
             "owner": "xodio",
@@ -1506,300 +1588,302 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81700055,
             "language": "TypeScript",
             "last_commit": "2017-03-03T01:32:38Z",
             "owner": "TylorS",
             "repo": "4.5",
             "stars": 21
           }
-        },
-        {
-          "node_type": "item",
-          "title": "ftor",
-          "description": "A pluggable runtime type checker and functional debugging tool that supports parametric and row polymorphism, implicit rank-2 types and algebraic data types via Scott Encoding.",
-          "children": []
         }
       ],
       "title": "Programming Tools"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Professor Frisby’s Mostly Adequate Guide to Functional Programming",
+              "description": "This is a book on the functional paradigm in general using the world’s most popular functional programming language: JavaScript. It’s a practical introduction that builds up intuition through real-world examples. Strongly recommended. By Brian Lonsdorf (2016)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35133520,
+                "language": "JavaScript",
+                "last_commit": "2024-09-17T06:18:40Z",
+                "owner": "MostlyAdequate",
+                "repo": "mostly-adequate-guide",
+                "stars": 23831
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Functional-Light JavaScript",
+              "description": "This book explores the core principles of functional programming (FP) that can be applied to JavaScript. But what makes this book different is that it approaches these principles without all the heavy terminology.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65866559,
+                "language": "JavaScript",
+                "last_commit": "2023-12-26T15:46:02Z",
+                "owner": "getify",
+                "repo": "Functional-Light-JS",
+                "stars": 16740
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "scriptum",
+              "description": "a no-frills functional programming library and a online course based on it",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122365303,
+                "language": "JavaScript",
+                "last_commit": "2025-08-13T06:24:34Z",
+                "owner": "robotroutine",
+                "repo": "scriptum",
+                "stars": 381
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Books"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Functional Programming Jargon",
+              "description": "Jargon from the functional programming world explained in JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31168578,
+                "language": null,
+                "last_commit": "2023-10-17T12:04:55Z",
+                "owner": "hemanth",
+                "repo": "functional-programming-jargon",
+                "stars": 18645
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "You don't (may not) need loops ➿",
+              "description": "Loops are one of the first constructs that junior programmers learn, but they can pose many potential issues in the software development process, and could be avoided in many cases.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 221161068,
+                "language": null,
+                "last_commit": "2024-10-15T07:23:53Z",
+                "owner": "you-dont-need",
+                "repo": "You-Dont-Need-Loops",
+                "stars": 1174
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Articles"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cube-composer",
+              "description": "A puzzle game inspired by functional programming.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31920956,
+                "language": "PureScript",
+                "last_commit": "2022-12-08T09:23:40Z",
+                "owner": "sharkdp",
+                "repo": "cube-composer",
+                "stars": 2045
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "functional-javascript-workshop",
+              "description": "The goal of this workshop is to create realistic problems that can be solved using terse, vanilla, idiomatic JavaScript to teach fundamental functional programming features of JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12946174,
+                "language": "JavaScript",
+                "last_commit": "2020-10-08T09:28:30Z",
+                "owner": "timoxley",
+                "repo": "functional-javascript-workshop",
+                "stars": 2040
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "functional-frontend-architecture",
+              "description": "A functional frontend framework. Based on Ramda + union-type-js + Flyd + Snabbdom",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35723130,
+                "language": "JavaScript",
+                "last_commit": "2019-07-02T08:08:39Z",
+                "owner": "paldepind",
+                "repo": "functional-frontend-architecture",
+                "stars": 1437
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Escape from Callback Mountain",
+              "description": "Design & refactoring tips for Promise-based Functional JavaScript. Key benefits include better readability, testability, and reusability. MIT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90344706,
+                "language": "JavaScript",
+                "last_commit": "2023-02-24T23:44:51Z",
+                "owner": "justsml",
+                "repo": "escape-from-callback-mountain",
+                "stars": 256
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FPJS-Class",
+              "description": "Functional Programming learned through JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30218234,
+                "language": "JavaScript",
+                "last_commit": "2015-08-01T14:56:49Z",
+                "owner": "loop-recur",
+                "repo": "FPJS-Class",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FP Youtube Search",
+              "description": "YouTube search app with ReactJS, Redux, and FP concepts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49396054,
+                "language": "JavaScript",
+                "last_commit": "2017-01-26T01:16:13Z",
+                "owner": "jaysoo",
+                "repo": "example-fp-youtube-search",
+                "stars": 57
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Examples and Exercises"
+        }
+      ],
       "title": "Resources"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Professor Frisby’s Mostly Adequate Guide to Functional Programming",
-          "description": "This is a book on the functional paradigm in general using the world’s most popular functional programming language: JavaScript. It’s a practical introduction that builds up intuition through real-world examples. Strongly recommended. By Brian Lonsdorf (2016)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-09-17T06:18:40Z",
-            "owner": "MostlyAdequate",
-            "repo": "mostly-adequate-guide",
-            "stars": 23831
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Functional-Light JavaScript",
-          "description": "This book explores the core principles of functional programming (FP) that can be applied to JavaScript. But what makes this book different is that it approaches these principles without all the heavy terminology.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-12-26T15:46:02Z",
-            "owner": "getify",
-            "repo": "Functional-Light-JS",
-            "stars": 16739
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "scriptum",
-          "description": "a no-frills functional programming library and a online course based on it",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-08-13T06:24:34Z",
-            "owner": "robotroutine",
-            "repo": "scriptum",
-            "stars": 381
-          }
-        }
-      ],
-      "title": "Books"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Functional Programming Jargon",
-          "description": "Jargon from the functional programming world explained in JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-10-17T12:04:55Z",
-            "owner": "hemanth",
-            "repo": "functional-programming-jargon",
-            "stars": 18645
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "You don't (may not) need loops ➿",
-          "description": "Loops are one of the first constructs that junior programmers learn, but they can pose many potential issues in the software development process, and could be avoided in many cases.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-10-15T07:23:53Z",
-            "owner": "you-dont-need",
-            "repo": "You-Dont-Need-Loops",
-            "stars": 1174
-          }
-        }
-      ],
-      "title": "Articles"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "cube-composer",
-          "description": "A puzzle game inspired by functional programming.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PureScript",
-            "last_commit": "2022-12-08T09:23:40Z",
-            "owner": "sharkdp",
-            "repo": "cube-composer",
-            "stars": 2045
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "functional-javascript-workshop",
-          "description": "The goal of this workshop is to create realistic problems that can be solved using terse, vanilla, idiomatic JavaScript to teach fundamental functional programming features of JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-10-08T09:28:30Z",
-            "owner": "timoxley",
-            "repo": "functional-javascript-workshop",
-            "stars": 2040
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "functional-frontend-architecture",
-          "description": "A functional frontend framework. Based on Ramda + union-type-js + Flyd + Snabbdom",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-07-02T08:08:39Z",
-            "owner": "paldepind",
-            "repo": "functional-frontend-architecture",
-            "stars": 1437
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Escape from Callback Mountain",
-          "description": "Design & refactoring tips for Promise-based Functional JavaScript. Key benefits include better readability, testability, and reusability. MIT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-02-24T23:44:51Z",
-            "owner": "justsml",
-            "repo": "escape-from-callback-mountain",
-            "stars": 256
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FPJS-Class",
-          "description": "Functional Programming learned through JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2015-08-01T14:56:49Z",
-            "owner": "loop-recur",
-            "repo": "FPJS-Class",
-            "stars": 94
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FP Youtube Search",
-          "description": "YouTube search app with ReactJS, Redux, and FP concepts",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-01-26T01:16:13Z",
-            "owner": "jaysoo",
-            "repo": "example-fp-youtube-search",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Holdem Evaluator",
-          "description": "Yet another Holdem Evaluator with Ramda functional style",
-          "children": []
-        }
-      ],
-      "title": "Examples and Exercises"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Community"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "xgrommx/Awesome Functional Programming",
-          "description": "A ton of articles on functional programming, as well as a huge list of functional libraries for many programming languages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-01-16T08:10:48Z",
-            "owner": "xgrommx",
-            "repo": "awesome-functional-programming",
-            "stars": 3532
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tk-learning-center/Functional Programming Learning Path",
-          "description": "A Learning Path for Functional Programming",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2024-10-22T11:41:29Z",
-            "owner": "imteekay",
-            "repo": "functional-programming-learning-path",
-            "stars": 1041
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lucasviola/Awesome Functional Programming",
-          "description": "Awesome resources on functional programming theory and learning materials.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-04-22T09:00:07Z",
-            "owner": "lucasviola",
-            "repo": "awesome-functional-programming",
-            "stars": 1009
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Functional Programming Resources In JavaScript",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "xgrommx/Awesome Functional Programming",
+              "description": "A ton of articles on functional programming, as well as a huge list of functional libraries for many programming languages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46194363,
+                "language": null,
+                "last_commit": "2024-01-16T08:10:48Z",
+                "owner": "xgrommx",
+                "repo": "awesome-functional-programming",
+                "stars": 3532
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tk-learning-center/Functional Programming Learning Path",
+              "description": "A Learning Path for Functional Programming",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145241512,
+                "language": "Clojure",
+                "last_commit": "2024-10-22T11:41:29Z",
+                "owner": "imteekay",
+                "repo": "functional-programming-learning-path",
+                "stars": 1041
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lucasviola/Awesome Functional Programming",
+              "description": "Awesome resources on functional programming theory and learning materials.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45216861,
+                "language": null,
+                "last_commit": "2024-04-22T09:00:07Z",
+                "owner": "lucasviola",
+                "repo": "awesome-functional-programming",
+                "stars": 1009
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Functional Programming Resources In JavaScript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16745225,
+                "language": null,
+                "last_commit": "2020-10-01T01:46:47Z",
+                "owner": "busypeoples",
+                "repo": "functional-programming-javascript",
+                "stars": 302
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome FRP JS",
+              "description": "A curated list of awesome (functional) reactive programming stuff in JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42401913,
+                "language": null,
+                "last_commit": "2019-10-29T01:45:24Z",
+                "owner": "stoeffel",
+                "repo": "awesome-frp-js",
+                "stars": 287
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-10-01T01:46:47Z",
-            "owner": "busypeoples",
-            "repo": "functional-programming-javascript",
-            "stars": 302
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome FRP JS",
-          "description": "A curated list of awesome (functional) reactive programming stuff in JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2019-10-29T01:45:24Z",
-            "owner": "stoeffel",
-            "repo": "awesome-frp-js",
-            "stars": 287
-          }
+          "node_type": "group",
+          "title": "Related Lists"
         }
       ],
-      "title": "Related Lists"
-    },
-    {
-      "description": ":star: Suggestions and PRs are welcome! :star:\nPlease read the contribution guidelines to get started.",
-      "items": [],
-      "title": "Contribution"
-    },
-    {
-      "description": "To the extent possible under law, Christoph Hermann has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
+      "title": "Community"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:45:49.753Z",
+    "last_updated": "2026-08-19T12:27:25.660Z",
     "original_repository": "stoeffel/awesome-fp-js",
+    "original_repository_id": 35660659,
     "original_repository_sha": "f70c4c7906c1cad07bc143d899fee3f782bfcba7",
     "enhanced_repository": "enhansome/enhansome-fp-js",
     "enhanced_repository_description": null,
