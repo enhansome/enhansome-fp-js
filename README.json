@@ -15,7 +15,7 @@
             "last_commit": "2026-07-03T19:48:01Z",
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61291
+            "stars": 61290
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-26T15:18:52Z",
             "owner": "ramda",
             "repo": "ramda",
-            "stars": 24060
+            "stars": 24056
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 221458136,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:16:31Z",
+            "last_commit": "2026-08-19T21:45:03Z",
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 15344
+            "stars": 15361
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-10T23:33:38Z",
             "owner": "gvergnaud",
             "repo": "ts-pattern",
-            "stars": 15128
+            "stars": 15127
           }
         },
         {
@@ -1074,7 +1074,7 @@
                 "last_commit": "2024-11-10T21:50:53Z",
                 "owner": "fantasyland",
                 "repo": "fantasy-land",
-                "stars": 10240
+                "stars": 10239
               }
             },
             {
@@ -1089,7 +1089,7 @@
                 "last_commit": "2026-02-14T23:23:06Z",
                 "owner": "supermacro",
                 "repo": "neverthrow",
-                "stars": 7675
+                "stars": 7677
               }
             },
             {
@@ -1631,7 +1631,7 @@
                 "last_commit": "2023-12-26T15:46:02Z",
                 "owner": "getify",
                 "repo": "Functional-Light-JS",
-                "stars": 16740
+                "stars": 16739
               }
             },
             {
@@ -1668,7 +1668,7 @@
                 "last_commit": "2023-10-17T12:04:55Z",
                 "owner": "hemanth",
                 "repo": "functional-programming-jargon",
-                "stars": 18645
+                "stars": 18644
               }
             },
             {
@@ -1881,7 +1881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:27:25.660Z",
+    "last_updated": "2026-08-19T21:49:05.588Z",
     "original_repository": "stoeffel/awesome-fp-js",
     "original_repository_id": 35660659,
     "original_repository_sha": "f70c4c7906c1cad07bc143d899fee3f782bfcba7",
