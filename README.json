@@ -30,7 +30,7 @@
             "last_commit": "2026-07-26T15:18:52Z",
             "owner": "ramda",
             "repo": "ramda",
-            "stars": 24055
+            "stars": 24056
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 221458136,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T21:46:31Z",
+            "last_commit": "2026-08-21T21:40:37Z",
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 15411
+            "stars": 15438
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-10T23:33:38Z",
             "owner": "gvergnaud",
             "repo": "ts-pattern",
-            "stars": 15130
+            "stars": 15131
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-07-20T20:12:58Z",
             "owner": "js-joda",
             "repo": "js-joda",
-            "stars": 1662
+            "stars": 1663
           }
         },
         {
@@ -872,7 +872,7 @@
                 "last_commit": "2026-08-17T09:22:33Z",
                 "owner": "immutable-js",
                 "repo": "immutable-js",
-                "stars": 33040
+                "stars": 33041
               }
             },
             {
@@ -887,7 +887,7 @@
                 "last_commit": "2026-08-19T07:57:23Z",
                 "owner": "immerjs",
                 "repo": "immer",
-                "stars": 28979
+                "stars": 28980
               }
             },
             {
@@ -1074,7 +1074,7 @@
                 "last_commit": "2024-11-10T21:50:53Z",
                 "owner": "fantasyland",
                 "repo": "fantasy-land",
-                "stars": 10239
+                "stars": 10240
               }
             },
             {
@@ -1089,7 +1089,7 @@
                 "last_commit": "2026-02-14T23:23:06Z",
                 "owner": "supermacro",
                 "repo": "neverthrow",
-                "stars": 7680
+                "stars": 7681
               }
             },
             {
@@ -1336,7 +1336,7 @@
                 "last_commit": "2021-11-18T13:19:33Z",
                 "owner": "calmm-js",
                 "repo": "partial.lenses",
-                "stars": 922
+                "stars": 923
               }
             },
             {
@@ -1482,7 +1482,7 @@
             "last_commit": "2019-08-20T14:46:14Z",
             "owner": "elixirscript",
             "repo": "elixirscript",
-            "stars": 1564
+            "stars": 1565
           }
         },
         {
@@ -1631,7 +1631,7 @@
                 "last_commit": "2023-12-26T15:46:02Z",
                 "owner": "getify",
                 "repo": "Functional-Light-JS",
-                "stars": 16738
+                "stars": 16739
               }
             },
             {
@@ -1808,7 +1808,7 @@
                 "last_commit": "2024-01-16T08:10:48Z",
                 "owner": "xgrommx",
                 "repo": "awesome-functional-programming",
-                "stars": 3532
+                "stars": 3531
               }
             },
             {
@@ -1881,7 +1881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T21:52:27.459Z",
+    "last_updated": "2026-08-21T21:47:01.740Z",
     "original_repository": "stoeffel/awesome-fp-js",
     "original_repository_id": 35660659,
     "original_repository_sha": "f70c4c7906c1cad07bc143d899fee3f782bfcba7",
