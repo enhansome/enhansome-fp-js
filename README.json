@@ -42,10 +42,10 @@
             "archived": false,
             "id": 221458136,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T21:40:37Z",
+            "last_commit": "2026-08-22T21:14:54Z",
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 15438
+            "stars": 15447
           }
         },
         {
@@ -887,7 +887,7 @@
                 "last_commit": "2026-08-19T07:57:23Z",
                 "owner": "immerjs",
                 "repo": "immer",
-                "stars": 28980
+                "stars": 28979
               }
             },
             {
@@ -947,7 +947,7 @@
                 "last_commit": "2024-01-15T10:31:01Z",
                 "owner": "funkia",
                 "repo": "list",
-                "stars": 1651
+                "stars": 1650
               }
             },
             {
@@ -1089,7 +1089,7 @@
                 "last_commit": "2026-02-14T23:23:06Z",
                 "owner": "supermacro",
                 "repo": "neverthrow",
-                "stars": 7681
+                "stars": 7682
               }
             },
             {
@@ -1336,7 +1336,7 @@
                 "last_commit": "2021-11-18T13:19:33Z",
                 "owner": "calmm-js",
                 "repo": "partial.lenses",
-                "stars": 923
+                "stars": 924
               }
             },
             {
@@ -1563,7 +1563,7 @@
             "last_commit": "2021-01-01T22:02:02Z",
             "owner": "jfmengels",
             "repo": "eslint-plugin-fp",
-            "stars": 969
+            "stars": 970
           }
         },
         {
@@ -1668,7 +1668,7 @@
                 "last_commit": "2023-10-17T12:04:55Z",
                 "owner": "hemanth",
                 "repo": "functional-programming-jargon",
-                "stars": 18645
+                "stars": 18646
               }
             },
             {
@@ -1881,7 +1881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T21:47:01.740Z",
+    "last_updated": "2026-08-22T21:43:57.047Z",
     "original_repository": "stoeffel/awesome-fp-js",
     "original_repository_id": 35660659,
     "original_repository_sha": "f70c4c7906c1cad07bc143d899fee3f782bfcba7",
