@@ -15,7 +15,7 @@
             "last_commit": "2026-07-03T19:48:01Z",
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61293
+            "stars": 61291
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 221458136,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T21:29:55Z",
+            "last_commit": "2026-08-24T13:24:45Z",
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 15462
+            "stars": 15477
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-10T23:33:38Z",
             "owner": "gvergnaud",
             "repo": "ts-pattern",
-            "stars": 15133
+            "stars": 15134
           }
         },
         {
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 44402648,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T06:15:49Z",
+            "last_commit": "2026-08-24T10:32:12Z",
             "owner": "js-joda",
             "repo": "js-joda",
             "stars": 1663
@@ -872,7 +872,7 @@
                 "last_commit": "2026-08-17T09:22:33Z",
                 "owner": "immutable-js",
                 "repo": "immutable-js",
-                "stars": 33040
+                "stars": 33041
               }
             },
             {
@@ -887,7 +887,7 @@
                 "last_commit": "2026-08-19T07:57:23Z",
                 "owner": "immerjs",
                 "repo": "immer",
-                "stars": 28978
+                "stars": 28980
               }
             },
             {
@@ -1089,7 +1089,7 @@
                 "last_commit": "2026-02-14T23:23:06Z",
                 "owner": "supermacro",
                 "repo": "neverthrow",
-                "stars": 7682
+                "stars": 7684
               }
             },
             {
@@ -1452,7 +1452,7 @@
             "last_commit": "2026-08-10T01:25:46Z",
             "owner": "clojure",
             "repo": "clojurescript",
-            "stars": 9389
+            "stars": 9388
           }
         },
         {
@@ -1616,7 +1616,7 @@
                 "last_commit": "2024-09-17T06:18:40Z",
                 "owner": "MostlyAdequate",
                 "repo": "mostly-adequate-guide",
-                "stars": 23823
+                "stars": 23824
               }
             },
             {
@@ -1705,7 +1705,7 @@
                 "last_commit": "2022-12-08T09:23:40Z",
                 "owner": "sharkdp",
                 "repo": "cube-composer",
-                "stars": 2045
+                "stars": 2046
               }
             },
             {
@@ -1881,7 +1881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:44:08.796Z",
+    "last_updated": "2026-08-24T13:56:47.083Z",
     "original_repository": "stoeffel/awesome-fp-js",
     "original_repository_id": 35660659,
     "original_repository_sha": "f70c4c7906c1cad07bc143d899fee3f782bfcba7",
