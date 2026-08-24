@@ -30,7 +30,7 @@
             "last_commit": "2026-07-26T15:18:52Z",
             "owner": "ramda",
             "repo": "ramda",
-            "stars": 24056
+            "stars": 24058
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 221458136,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:24:45Z",
+            "last_commit": "2026-08-24T21:52:22Z",
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 15477
+            "stars": 15480
           }
         },
         {
@@ -1089,7 +1089,7 @@
                 "last_commit": "2026-02-14T23:23:06Z",
                 "owner": "supermacro",
                 "repo": "neverthrow",
-                "stars": 7684
+                "stars": 7685
               }
             },
             {
@@ -1668,7 +1668,7 @@
                 "last_commit": "2023-10-17T12:04:55Z",
                 "owner": "hemanth",
                 "repo": "functional-programming-jargon",
-                "stars": 18646
+                "stars": 18647
               }
             },
             {
@@ -1823,7 +1823,7 @@
                 "last_commit": "2024-10-22T11:41:29Z",
                 "owner": "imteekay",
                 "repo": "functional-programming-learning-path",
-                "stars": 1041
+                "stars": 1042
               }
             },
             {
@@ -1881,7 +1881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:56:47.083Z",
+    "last_updated": "2026-08-24T21:52:48.497Z",
     "original_repository": "stoeffel/awesome-fp-js",
     "original_repository_id": 35660659,
     "original_repository_sha": "f70c4c7906c1cad07bc143d899fee3f782bfcba7",
