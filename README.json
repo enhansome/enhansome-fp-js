@@ -15,7 +15,7 @@
             "last_commit": "2026-07-03T19:48:01Z",
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61291
+            "stars": 61290
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-26T15:18:52Z",
             "owner": "ramda",
             "repo": "ramda",
-            "stars": 24058
+            "stars": 24057
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 221458136,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T21:52:22Z",
+            "last_commit": "2026-08-25T05:31:23Z",
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 15480
+            "stars": 15487
           }
         },
         {
@@ -110,7 +110,7 @@
         },
         {
           "node_type": "item",
-          "title": "101",
+          "title": "tjmehta/101",
           "description": "A modern and modular JavaScript utility library made to work well with vanilla JavaScript methods. -TS",
           "children": [],
           "repo_info": {
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 81263716,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T00:00:46Z",
+            "last_commit": "2026-08-24T23:54:28Z",
             "owner": "char0n",
             "repo": "ramda-adjunct",
             "stars": 687
@@ -887,7 +887,7 @@
                 "last_commit": "2026-08-19T07:57:23Z",
                 "owner": "immerjs",
                 "repo": "immer",
-                "stars": 28980
+                "stars": 28981
               }
             },
             {
@@ -1089,7 +1089,7 @@
                 "last_commit": "2026-02-14T23:23:06Z",
                 "owner": "supermacro",
                 "repo": "neverthrow",
-                "stars": 7685
+                "stars": 7686
               }
             },
             {
@@ -1583,7 +1583,7 @@
         },
         {
           "node_type": "item",
-          "title": "4.5",
+          "title": "TylorS/4.5",
           "description": "A functional assertions library. If you prefer functional style APIs and practices in JavaScript, this library aims to solve this with functionally-oriented assertions that are lazy and monadic.",
           "children": [],
           "repo_info": {
@@ -1881,7 +1881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:52:48.497Z",
+    "last_updated": "2026-08-25T05:47:15.775Z",
     "original_repository": "stoeffel/awesome-fp-js",
     "original_repository_id": 35660659,
     "original_repository_sha": "f70c4c7906c1cad07bc143d899fee3f782bfcba7",
