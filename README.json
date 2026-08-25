@@ -30,7 +30,7 @@
             "last_commit": "2026-07-26T15:18:52Z",
             "owner": "ramda",
             "repo": "ramda",
-            "stars": 24057
+            "stars": 24056
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 221458136,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:31:23Z",
+            "last_commit": "2026-08-25T21:49:00Z",
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 15487
+            "stars": 15496
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-10T23:33:38Z",
             "owner": "gvergnaud",
             "repo": "ts-pattern",
-            "stars": 15134
+            "stars": 15136
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-15T21:36:12Z",
             "owner": "true-myth",
             "repo": "true-myth",
-            "stars": 1359
+            "stars": 1361
           }
         },
         {
@@ -887,7 +887,7 @@
                 "last_commit": "2026-08-19T07:57:23Z",
                 "owner": "immerjs",
                 "repo": "immer",
-                "stars": 28981
+                "stars": 28980
               }
             },
             {
@@ -1089,7 +1089,7 @@
                 "last_commit": "2026-02-14T23:23:06Z",
                 "owner": "supermacro",
                 "repo": "neverthrow",
-                "stars": 7686
+                "stars": 7687
               }
             },
             {
@@ -1452,7 +1452,7 @@
             "last_commit": "2026-08-10T01:25:46Z",
             "owner": "clojure",
             "repo": "clojurescript",
-            "stars": 9388
+            "stars": 9390
           }
         },
         {
@@ -1616,7 +1616,7 @@
                 "last_commit": "2024-09-17T06:18:40Z",
                 "owner": "MostlyAdequate",
                 "repo": "mostly-adequate-guide",
-                "stars": 23824
+                "stars": 23823
               }
             },
             {
@@ -1631,7 +1631,7 @@
                 "last_commit": "2023-12-26T15:46:02Z",
                 "owner": "getify",
                 "repo": "Functional-Light-JS",
-                "stars": 16739
+                "stars": 16738
               }
             },
             {
@@ -1881,7 +1881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:47:15.775Z",
+    "last_updated": "2026-08-25T21:51:34.225Z",
     "original_repository": "stoeffel/awesome-fp-js",
     "original_repository_id": 35660659,
     "original_repository_sha": "f70c4c7906c1cad07bc143d899fee3f782bfcba7",
