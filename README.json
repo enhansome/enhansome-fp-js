@@ -15,7 +15,7 @@
             "last_commit": "2026-07-03T19:48:01Z",
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61290
+            "stars": 61283
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 221458136,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T21:49:00Z",
+            "last_commit": "2026-08-27T00:53:16Z",
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 15496
+            "stars": 15515
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-10T23:33:38Z",
             "owner": "gvergnaud",
             "repo": "ts-pattern",
-            "stars": 15136
+            "stars": 15137
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-24T10:32:12Z",
             "owner": "js-joda",
             "repo": "js-joda",
-            "stars": 1663
+            "stars": 1664
           }
         },
         {
@@ -555,7 +555,7 @@
             "last_commit": "2025-09-11T07:09:11Z",
             "owner": "Oaxoa",
             "repo": "fp-filters",
-            "stars": 86
+            "stars": 87
           }
         },
         {
@@ -872,7 +872,7 @@
                 "last_commit": "2026-08-17T09:22:33Z",
                 "owner": "immutable-js",
                 "repo": "immutable-js",
-                "stars": 33041
+                "stars": 33040
               }
             },
             {
@@ -902,7 +902,7 @@
                 "last_commit": "2020-07-15T20:12:33Z",
                 "owner": "dtao",
                 "repo": "lazy.js",
-                "stars": 5968
+                "stars": 5966
               }
             },
             {
@@ -932,7 +932,7 @@
                 "last_commit": "2022-05-10T23:49:10Z",
                 "owner": "Yomguithereal",
                 "repo": "baobab",
-                "stars": 3156
+                "stars": 3155
               }
             },
             {
@@ -1089,7 +1089,7 @@
                 "last_commit": "2026-02-14T23:23:06Z",
                 "owner": "supermacro",
                 "repo": "neverthrow",
-                "stars": 7687
+                "stars": 7689
               }
             },
             {
@@ -1616,7 +1616,7 @@
                 "last_commit": "2024-09-17T06:18:40Z",
                 "owner": "MostlyAdequate",
                 "repo": "mostly-adequate-guide",
-                "stars": 23823
+                "stars": 23822
               }
             },
             {
@@ -1808,7 +1808,7 @@
                 "last_commit": "2024-01-16T08:10:48Z",
                 "owner": "xgrommx",
                 "repo": "awesome-functional-programming",
-                "stars": 3532
+                "stars": 3533
               }
             },
             {
@@ -1881,7 +1881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T21:51:34.225Z",
+    "last_updated": "2026-08-27T00:56:16.062Z",
     "original_repository": "stoeffel/awesome-fp-js",
     "original_repository_id": 35660659,
     "original_repository_sha": "f70c4c7906c1cad07bc143d899fee3f782bfcba7",
