@@ -15,7 +15,7 @@
             "last_commit": "2026-07-03T19:48:01Z",
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61283
+            "stars": 61284
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-26T15:18:52Z",
             "owner": "ramda",
             "repo": "ramda",
-            "stars": 24056
+            "stars": 24055
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 221458136,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T00:53:16Z",
+            "last_commit": "2026-08-27T10:07:40Z",
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 15515
+            "stars": 15521
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-10T23:33:38Z",
             "owner": "gvergnaud",
             "repo": "ts-pattern",
-            "stars": 15137
+            "stars": 15138
           }
         },
         {
@@ -872,7 +872,7 @@
                 "last_commit": "2026-08-17T09:22:33Z",
                 "owner": "immutable-js",
                 "repo": "immutable-js",
-                "stars": 33040
+                "stars": 33041
               }
             },
             {
@@ -1089,7 +1089,7 @@
                 "last_commit": "2026-02-14T23:23:06Z",
                 "owner": "supermacro",
                 "repo": "neverthrow",
-                "stars": 7689
+                "stars": 7692
               }
             },
             {
@@ -1705,7 +1705,7 @@
                 "last_commit": "2022-12-08T09:23:40Z",
                 "owner": "sharkdp",
                 "repo": "cube-composer",
-                "stars": 2046
+                "stars": 2047
               }
             },
             {
@@ -1735,7 +1735,7 @@
                 "last_commit": "2019-07-02T08:08:39Z",
                 "owner": "paldepind",
                 "repo": "functional-frontend-architecture",
-                "stars": 1437
+                "stars": 1436
               }
             },
             {
@@ -1881,9 +1881,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:56:16.062Z",
-    "original_repository": "stoeffel/awesome-fp-js",
-    "original_repository_id": 35660659,
+    "last_updated": "2026-08-27T11:38:28.218Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 35660659,
+      "language": null,
+      "last_commit": "2026-01-15T19:55:47Z",
+      "owner": "stoeffel",
+      "repo": "awesome-fp-js",
+      "stars": 6035
+    },
     "original_repository_sha": "f70c4c7906c1cad07bc143d899fee3f782bfcba7",
     "enhanced_repository": "enhansome/enhansome-fp-js",
     "enhanced_repository_description": null,
