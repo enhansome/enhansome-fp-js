@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern JavaScript utility library delivering modularity, performance, & extras.",
+            "homepage": "https://lodash.com/",
             "id": 3955647,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-03T19:48:01Z",
+            "open_issues": 106,
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61283
+            "stars": 61282,
+            "topics": [
+              "javascript",
+              "lodash",
+              "modules",
+              "utilities"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -26,12 +36,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":ram: Practical functional Javascript",
+            "homepage": "https://ramdajs.com",
             "id": 10851820,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-26T15:18:52Z",
+            "open_issues": 146,
             "owner": "ramda",
             "repo": "ramda",
-            "stars": 24055
+            "stars": 24055,
+            "topics": [
+              "javascript",
+              "ramda"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -42,12 +60,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build production-ready applications in TypeScript",
+            "homepage": "https://effect.website",
             "id": 221458136,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T17:16:43Z",
+            "open_issues": 233,
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 15549
+            "stars": 15550,
+            "topics": [
+              "cli",
+              "clustering",
+              "concurrency",
+              "dependency-injection",
+              "effect",
+              "error-handling",
+              "javascript",
+              "observability",
+              "opentelemetry",
+              "platform",
+              "schema",
+              "typescript",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -58,12 +95,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.",
+            "homepage": null,
             "id": 266582853,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-10T23:33:38Z",
+            "open_issues": 72,
             "owner": "gvergnaud",
             "repo": "ts-pattern",
-            "stars": 15139
+            "stars": 15139,
+            "topics": [
+              "branching",
+              "conditions",
+              "exhaustive",
+              "inference",
+              "javascript",
+              "matching",
+              "pattern",
+              "pattern-matching",
+              "ts",
+              "type-inference",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -74,12 +128,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ultra-high performance reactive programming",
+            "homepage": null,
             "id": 13815852,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-06T17:07:17Z",
+            "open_issues": 50,
             "owner": "cujojs",
             "repo": "most",
-            "stars": 3489
+            "stars": 3489,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -90,12 +149,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Typescript focused FP library similar to Remeda and Ramda",
+            "homepage": "https://selfrefactor.github.io/rambda/",
             "id": 79035508,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T13:58:08Z",
+            "open_issues": 1,
             "owner": "selfrefactor",
             "repo": "rambda",
-            "stars": 1754
+            "stars": 1754,
+            "topics": [
+              "fp",
+              "functional",
+              "functional-programming",
+              "functions",
+              "lodash",
+              "ramda",
+              "typescript",
+              "utility",
+              "utils"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -106,12 +180,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":clock2: Immutable date and time library for javascript",
+            "homepage": "http://js-joda.github.io/js-joda/",
             "id": 44402648,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T10:32:12Z",
+            "open_issues": 10,
             "owner": "js-joda",
             "repo": "js-joda",
-            "stars": 1664
+            "stars": 1664,
+            "topics": [
+              "date",
+              "immutable",
+              "joda",
+              "threeten",
+              "time",
+              "timezone"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -122,12 +208,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern JS utility library",
+            "homepage": null,
             "id": 18667134,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-01-06T10:09:29Z",
+            "open_issues": 21,
             "owner": "tjmehta",
             "repo": "101",
-            "stars": 1540
+            "stars": 1540,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -138,12 +229,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Safe and idiomatic TypeScript types to handle null, error, and async code handling: Maybe, Result, and Task types that are really nice.",
+            "homepage": "https://true-myth.dev",
             "id": 104394958,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-29T00:05:36Z",
+            "open_issues": 15,
             "owner": "true-myth",
             "repo": "true-myth",
-            "stars": 1362
+            "stars": 1362,
+            "topics": [
+              "applicatives",
+              "functional-programming",
+              "functors",
+              "javascript",
+              "monads",
+              "typescript",
+              "typescript-definitions",
+              "typescript-library"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -154,12 +259,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A functional programming library for TypeScript/JavaScript",
+            "homepage": "https://fxts.dev",
             "id": 411941706,
             "language": "TypeScript",
-            "last_commit": "2026-08-29T03:06:46Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:47:12Z",
+            "open_issues": 8,
             "owner": "marpple",
             "repo": "FxTS",
-            "stars": 1167
+            "stars": 1167,
+            "topics": [
+              "concurrency",
+              "fp",
+              "javascript",
+              "lazy",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -170,12 +286,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "F(unctional) util(ities). Resistance is futile.",
+            "homepage": "https://smartprocure.github.io/futil-js/",
             "id": 80776197,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-05-02T11:24:36Z",
+            "open_issues": 33,
             "owner": "smartprocure",
             "repo": "futil-js",
-            "stars": 1044
+            "stars": 1044,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -186,12 +307,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Functional tools that couldn’t be simpler.",
+            "homepage": null,
             "id": 34197833,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-04-16T13:08:38Z",
+            "open_issues": 28,
             "owner": "1-liners",
             "repo": "1-liners",
-            "stars": 799
+            "stars": 799,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -202,12 +328,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ramda Adjunct is the most popular and most comprehensive set of functional utilities for use with Ramda, providing a variety of useful, well tested functions with excellent documentation.",
+            "homepage": "https://char0n.github.io/ramda-adjunct/",
             "id": 81263716,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T00:01:37Z",
+            "open_issues": 69,
             "owner": "char0n",
             "repo": "ramda-adjunct",
-            "stars": 687
+            "stars": 687,
+            "topics": [
+              "addons",
+              "adjunct",
+              "cookbook",
+              "extensions",
+              "extras",
+              "functional-programming",
+              "hacktoberfest",
+              "ramda",
+              "recipes",
+              "toolkit",
+              "utilities",
+              "utils"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -218,12 +362,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Functional Programming Library for JavaScript, TypeScript and Flow ✨⚡️",
+            "homepage": "https://funfix.org",
             "id": 93436306,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-01T17:27:10Z",
+            "open_issues": 0,
             "owner": "funfix",
             "repo": "funfix.js",
-            "stars": 627
+            "stars": 627,
+            "topics": [
+              "async",
+              "concurrency",
+              "es2015",
+              "flowtype",
+              "fp",
+              "functional-programming",
+              "futures",
+              "javascript",
+              "type-classes",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -234,12 +394,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Features from the rust language in javascript: Provides Traits/Type classes & a hashing infrastructure and an advanced library for working with sequences/iterators in js",
+            "homepage": "https://www.ferrumjs.org",
             "id": 189205816,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-11T20:39:43Z",
+            "open_issues": 53,
             "owner": "adobe",
             "repo": "ferrum",
-            "stars": 529
+            "stars": 529,
+            "topics": [
+              "ferrum",
+              "functional",
+              "hashing",
+              "iterator-support",
+              "iterators",
+              "javascript",
+              "object-hash",
+              "sequences",
+              "trait"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -250,12 +425,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "FP library for JavaScript. Supports named-argument style methods.",
+            "homepage": null,
             "id": 81842948,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-08-27T15:13:47Z",
+            "open_issues": 8,
             "owner": "getify",
             "repo": "FPO",
-            "stars": 452
+            "stars": 452,
+            "topics": [
+              "functional-js",
+              "functional-programming",
+              "javascript",
+              "library"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -266,12 +451,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Abstraction for managing asynchronous code in JS",
+            "homepage": null,
             "id": 60370221,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-05-31T15:15:09Z",
+            "open_issues": 14,
             "owner": "rpominov",
             "repo": "fun-task",
-            "stars": 374
+            "stars": 374,
+            "topics": [
+              "async",
+              "fp",
+              "functional-programming",
+              "future",
+              "monad",
+              "promise",
+              "task"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -282,12 +480,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦥 A lazy functional iteration library supporting sync, async, and concurrent iteration.",
+            "homepage": "https://lfi.dev",
             "id": 322432444,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-16T18:04:59Z",
+            "open_issues": 4,
             "owner": "TomerAberbach",
             "repo": "lfi",
-            "stars": 348
+            "stars": 348,
+            "topics": [
+              "async",
+              "concurrent",
+              "functional-programming",
+              "generator",
+              "iterable",
+              "iterator",
+              "javascript",
+              "lazy",
+              "npm-module",
+              "npm-package",
+              "promise",
+              "sync"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -298,12 +514,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pipe-like function to verticalize your JavaScript code",
+            "homepage": null,
             "id": 694090071,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-05-30T07:51:10Z",
+            "open_issues": 0,
             "owner": "laurentpayot",
             "repo": "verticalize",
-            "stars": 303
+            "stars": 303,
+            "topics": [
+              "code",
+              "javascript",
+              "light",
+              "lightweight",
+              "operator",
+              "pipe",
+              "pipeline",
+              "promises",
+              "syntax"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -314,12 +545,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[A]synchronous Functional Programming",
+            "homepage": "https://rubico.land",
             "id": 219276883,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-31T16:42:58Z",
+            "open_issues": 52,
             "owner": "a-synchronous",
             "repo": "rubico",
-            "stars": 283
+            "stars": 283,
+            "topics": [
+              "async",
+              "async-await",
+              "asynchronous",
+              "combinators",
+              "concurrent",
+              "function-composition",
+              "functional-programming",
+              "generator",
+              "iterator",
+              "javascript",
+              "monad",
+              "mux",
+              "node",
+              "operator",
+              "parallel",
+              "pointfree",
+              "promise",
+              "series",
+              "tacit",
+              "transducers"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -330,12 +587,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaScript library for building React applications in more functional way. Alternative to JSX.",
+            "homepage": null,
             "id": 175060977,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-05-08T02:23:53Z",
+            "open_issues": 3,
             "owner": "sultan99",
             "repo": "react-on-lambda",
-            "stars": 263
+            "stars": 263,
+            "topics": [
+              "fp",
+              "lambda",
+              "no-jsx",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -346,12 +613,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extremely small, intuitive and fast functional utility library for JavaScript",
+            "homepage": null,
             "id": 53286414,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2020-10-19T21:58:20Z",
+            "open_issues": 2,
             "owner": "concretesolutions",
             "repo": "pareto.js",
-            "stars": 261
+            "stars": 261,
+            "topics": [
+              "fast",
+              "functional",
+              "hacktoberfest",
+              "javascript",
+              "lightweight",
+              "utility"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -362,12 +641,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An experiment in adding functional pattern matching to JavaScript",
+            "homepage": null,
             "id": 3484616,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2018-05-19T09:35:27Z",
+            "open_issues": 1,
             "owner": "bramstein",
             "repo": "funcy",
-            "stars": 249
+            "stars": 249,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -378,12 +662,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extended version of Rambda ",
+            "homepage": "https://selfrefactor.github.io/rambdax",
             "id": 87567927,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-06-26T08:14:12Z",
+            "open_issues": 0,
             "owner": "selfrefactor",
             "repo": "rambdax",
-            "stars": 223
+            "stars": 223,
+            "topics": [
+              "functional-programming",
+              "lodash",
+              "rambda",
+              "ramda",
+              "utils"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -394,12 +689,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A functional JavaScript library that facilitates currying and point-free programming",
+            "homepage": "https://functionaljs.com",
             "id": 56892217,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-01-27T20:05:50Z",
+            "open_issues": 0,
             "owner": "functionaljs",
             "repo": "functional-js",
-            "stars": 223
+            "stars": 223,
+            "topics": [
+              "ai-friendly",
+              "composition",
+              "curry",
+              "currying",
+              "data-last",
+              "esm",
+              "flow",
+              "fp",
+              "functional",
+              "functional-programming",
+              "immutable",
+              "javascript",
+              "llm",
+              "lodash-alternative",
+              "pipe",
+              "point-free",
+              "ramda-alternative",
+              "tree-shaking",
+              "typescript",
+              "zero-dependencies"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -410,12 +731,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The iterable toolbox",
+            "homepage": null,
             "id": 69821712,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-06-02T13:12:47Z",
+            "open_issues": 16,
             "owner": "iter-tools",
             "repo": "iter-tools",
-            "stars": 189
+            "stars": 189,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -426,12 +752,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤘Utility library for functional JavaScript. With ❤️ to Ramda.",
+            "homepage": "https://ramda-extension.web.app/",
             "id": 73802492,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2025-04-01T11:34:11Z",
+            "open_issues": 33,
             "owner": "tommmyy",
             "repo": "ramda-extension",
-            "stars": 167
+            "stars": 167,
+            "topics": [
+              "extensions",
+              "functional-programming",
+              "pointfree",
+              "ramda",
+              "ramda-extension",
+              "ramda-functions",
+              "tools",
+              "toolset",
+              "utilities",
+              "utils"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -442,12 +784,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TypeScript RPC (Remote Procedure Call) for WebSocket and Worker protocols",
+            "homepage": "https://tgrid.com/",
             "id": 152748886,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-12-18T14:10:25Z",
+            "open_issues": 4,
             "owner": "samchon",
             "repo": "tgrid",
-            "stars": 167
+            "stars": 167,
+            "topics": [
+              "grid-computing",
+              "nestia",
+              "nestjs",
+              "network",
+              "process",
+              "remote-function-call",
+              "remote-procedure-call",
+              "rpc",
+              "thread",
+              "typescript",
+              "websocket",
+              "worker"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -458,12 +818,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Javascript Generalized Parser Combinators",
+            "homepage": null,
             "id": 59269174,
             "language": "JavaScript",
+            "license": "LGPL-2.1",
             "last_commit": "2026-03-01T23:03:31Z",
+            "open_issues": 13,
             "owner": "masala",
             "repo": "masala-parser",
-            "stars": 151
+            "stars": 151,
+            "topics": [
+              "functional-programming",
+              "generalization",
+              "monad",
+              "parsec",
+              "parser-combinator"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -474,12 +845,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 11550874,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2014-07-09T17:13:07Z",
+            "open_issues": 7,
             "owner": "loop-recur",
             "repo": "lambdajs",
-            "stars": 142
+            "stars": 142,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -490,12 +866,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curry All Code",
+            "homepage": null,
             "id": 284803323,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-12-30T15:43:52Z",
+            "open_issues": 1,
             "owner": "Debdut",
             "repo": "omg-curry",
-            "stars": 134
+            "stars": 134,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -506,12 +887,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Functional programming date manipulation library",
+            "homepage": null,
             "id": 43721994,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-12-11T21:34:02Z",
+            "open_issues": 3,
             "owner": "cullophid",
             "repo": "date-fp",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -522,12 +908,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tiny (2.7kb) functional programming library using native es5/6 operations",
+            "homepage": null,
             "id": 47858117,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-10-26T14:09:18Z",
+            "open_issues": 0,
             "owner": "cullophid",
             "repo": "barely-functional",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -538,12 +929,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dependency injection for modular web applications",
+            "homepage": "https://ditox.js.org",
             "id": 307775119,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-26T23:12:44Z",
+            "open_issues": 1,
             "owner": "mnasyrov",
             "repo": "ditox",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "container",
+              "dependency",
+              "dependency-container",
+              "dependency-injection",
+              "di",
+              "injection",
+              "ioc",
+              "javascript",
+              "module",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -554,12 +961,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "functional/point-free utils for JavaScript",
+            "homepage": "http://alanrsoares.github.io/prelude-js/",
             "id": 39484621,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-28T20:05:21Z",
+            "open_issues": 4,
             "owner": "alanrsoares",
             "repo": "prelude-js",
-            "stars": 101
+            "stars": 101,
+            "topics": [
+              "functional-programming"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -570,12 +984,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":curry: Currying made simple.",
+            "homepage": null,
             "id": 28660565,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-11-07T17:23:59Z",
+            "open_issues": 4,
             "owner": "thisables",
             "repo": "curry",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -586,12 +1005,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of ready-to-use (functional programming) array filters (TS / ESM / CJS)",
+            "homepage": null,
             "id": 656157926,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-09-11T07:09:11Z",
+            "open_issues": 0,
             "owner": "Oaxoa",
             "repo": "fp-filters",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "array-filters",
+              "filter",
+              "filtering",
+              "filters",
+              "fp",
+              "functional-programming",
+              "predicates"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -602,12 +1034,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://qio.netlify.com",
             "id": 180745862,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2022-08-16T22:00:32Z",
+            "open_issues": 8,
             "owner": "tusharmath",
             "repo": "qio",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -618,12 +1055,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pico sized functional library",
+            "homepage": null,
             "id": 79500588,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-11-21T13:51:47Z",
+            "open_issues": 1,
             "owner": "trainyard",
             "repo": "pico-lambda",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "es6",
+              "functional-programming",
+              "javascript",
+              "javascript-array"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -634,12 +1081,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Natural 🌿 effect system that fits TypeScript",
+            "homepage": "https://stackblitz.com/edit/vitejs-vite-2fotdf?file=src%2Fmain.ts",
             "id": 674186339,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-08-22T06:22:53Z",
+            "open_issues": 10,
             "owner": "ENvironmentSet",
             "repo": "hyogwa",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "algebraic-effects",
+              "computational-effects",
+              "effect-system",
+              "extensible-effects",
+              "functional-programming",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -650,12 +1109,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Function composition",
+            "homepage": null,
             "id": 28769775,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-11-07T17:21:19Z",
+            "open_issues": 2,
             "owner": "stoeffel",
             "repo": "compose-function",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -666,12 +1130,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "☯  The simplest signal library possible",
+            "homepage": null,
             "id": 73375482,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-01-06T09:56:38Z",
+            "open_issues": 8,
             "owner": "joaomilho",
             "repo": "zen-signals",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "education",
+              "learning",
+              "observables",
+              "reactivex",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -682,12 +1157,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library which aids in making any JavaScript library more functional.",
+            "homepage": null,
             "id": 32735041,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2015-03-31T19:52:11Z",
+            "open_issues": 0,
             "owner": "paldepind",
             "repo": "functionize",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -698,12 +1178,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A practical functional programming library for promises",
+            "homepage": null,
             "id": 56330133,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-12-19T07:01:12Z",
+            "open_issues": 3,
             "owner": "zhangchiqing",
             "repo": "bluebird-promisell",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "async-programming",
+              "functional-programming",
+              "javascript-callback-hell-solution",
+              "promise"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -714,12 +1204,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Functional Programming for EcmaScript(Javascript)",
+            "homepage": null,
             "id": 135992999,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-17T08:03:14Z",
+            "open_issues": 8,
             "owner": "TeaEntityLab",
             "repo": "fpEs",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "curry",
+              "currying",
+              "es",
+              "es6",
+              "es7",
+              "fp",
+              "functional-programming",
+              "functional-reactive-programming",
+              "javascript",
+              "js",
+              "monad",
+              "monads",
+              "optional",
+              "optional-implementations",
+              "publisher-subscriber",
+              "publisher-subscriber-pattern",
+              "pubsub",
+              "reactive",
+              "reactive-programming",
+              "rx"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -730,12 +1246,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make native methods available as partially applied functions.",
+            "homepage": "http://autosponge.github.io/_part_/demo/repl.html",
             "id": 14562141,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2014-02-11T12:43:32Z",
+            "open_issues": 0,
             "owner": "AutoSponge",
             "repo": "_part_",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -746,12 +1267,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny TypeScript library for handling side effects in a unified way using algebraic effects, offering a type-safe approach for async operations, error handling, dependency injection, and more.",
+            "homepage": "https://www.npmjs.com/package/tinyeffect",
             "id": 882700065,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-03-30T05:34:43Z",
+            "open_issues": 0,
             "owner": "Snowflyt",
             "repo": "tinyeffect",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "algebraic-effects",
+              "side-effect",
+              "side-effects",
+              "typesafe",
+              "typesafety"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -762,12 +1294,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reactive state and effect management with RxJS",
+            "homepage": null,
             "id": 383312036,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-07-12T21:42:16Z",
+            "open_issues": 0,
             "owner": "mnasyrov",
             "repo": "rx-effects",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "effects",
+              "react",
+              "reactive",
+              "state-management"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -778,12 +1320,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[DEFUNCT] trifling functional views",
+            "homepage": null,
             "id": 30568820,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-03-19T14:40:34Z",
+            "open_issues": 4,
             "owner": "algesten",
             "repo": "trifl",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -794,12 +1341,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful JavaScript functional programming toolset, including utility functions and abstract data structures.",
+            "homepage": "https://pureeval.org",
             "id": 524566788,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2024-02-27T14:51:27Z",
+            "open_issues": 0,
             "owner": "PureEval",
             "repo": "PureEval",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "functional-programming",
+              "javascript",
+              "js",
+              "monad",
+              "npm"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -810,12 +1368,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Powerful pipes for TypeScript, that chain Promise and ADT for you 🚌   ->  ⛰️   ->  🚠   ->  🏂  -> 🚀",
+            "homepage": null,
             "id": 271886787,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-26T09:57:37Z",
+            "open_issues": 0,
             "owner": "darky",
             "repo": "rocket-pipes",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "adt",
+              "aop",
+              "chain-promise",
+              "compose",
+              "composition",
+              "context",
+              "either",
+              "exit",
+              "fp-libraries",
+              "kleisli",
+              "maybe",
+              "mock",
+              "monet",
+              "pipe",
+              "pipeline",
+              "promise",
+              "ramda",
+              "ts",
+              "typescript",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -826,12 +1410,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a functional library for coffeescript (and javascript)",
+            "homepage": null,
             "id": 29449751,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2015-12-05T04:26:35Z",
+            "open_issues": 1,
             "owner": "algesten",
             "repo": "fnuc",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -842,12 +1431,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple function to curry a function with an arbitrary number of arguments.",
+            "homepage": null,
             "id": 15502964,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2014-01-08T19:47:45Z",
+            "open_issues": 1,
             "owner": "thunklife",
             "repo": "fn-curry",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -858,12 +1452,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tiny TypeScript functional dependency injection, based on AsyncLocalStorage. Supports Node.js, Deno",
+            "homepage": "https://darky.github.io/ts-fp-di/",
             "id": 415416603,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-05-23T12:53:51Z",
+            "open_issues": 0,
             "owner": "darky",
             "repo": "ts-fp-di",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "async",
+              "asynclocalstorage",
+              "deno",
+              "dependency",
+              "di",
+              "fp",
+              "functional",
+              "injection",
+              "local",
+              "nodejs",
+              "storage",
+              "ts",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -874,12 +1487,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TypeScript multimethods inspired by Clojure multimethods",
+            "homepage": null,
             "id": 415357590,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-20T22:08:48Z",
+            "open_issues": 0,
             "owner": "darky",
             "repo": "ts-multimethod",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "clojure",
+              "method",
+              "multimethod",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -890,12 +1513,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Microscopic functional programming context for TypeScript",
+            "homepage": null,
             "id": 758598999,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-12-29T19:12:06Z",
+            "open_issues": 0,
             "owner": "darky",
             "repo": "context-fp",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "context",
+              "dependency",
+              "di",
+              "fp",
+              "functional",
+              "functional-programming",
+              "injection",
+              "javascript",
+              "js",
+              "programming",
+              "ts",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -906,12 +1547,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Do notation pipes for Promise-based or pure functions which easy to mock",
+            "homepage": null,
             "id": 882016651,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-03-22T21:17:24Z",
+            "open_issues": 0,
             "owner": "darky",
             "repo": "klubok",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "do-notation",
+              "functional-programming",
+              "javascript",
+              "mock",
+              "pipe",
+              "promise",
+              "typescript",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -924,12 +1579,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Immutable persistent data collections for Javascript which increase efficiency and simplicity.",
+                "homepage": "https://immutable-js.com",
                 "id": 21413198,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T12:12:31Z",
+                "open_issues": 130,
                 "owner": "immutable-js",
                 "repo": "immutable-js",
-                "stars": 33040
+                "stars": 33040,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -940,12 +1600,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create the next immutable state by mutating the current one",
+                "homepage": "https://immerjs.github.io/immer/",
                 "id": 115720575,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-19T07:57:23Z",
+                "open_issues": 39,
                 "owner": "immerjs",
                 "repo": "immer",
-                "stars": 28981
+                "stars": 28980,
+                "topics": [
+                  "immutable",
+                  "immutables",
+                  "reducer",
+                  "redux",
+                  "state-tree"
+                ]
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -956,12 +1627,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Like Underscore, but lazier",
+                "homepage": "http://danieltao.com/lazy.js/",
                 "id": 9983223,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-07-15T20:12:33Z",
+                "open_issues": 59,
                 "owner": "dtao",
                 "repo": "lazy.js",
-                "stars": 5966
+                "stars": 5966,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -972,12 +1648,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript",
+                "homepage": "http://swannodette.github.io/mori",
                 "id": 4292299,
                 "language": "Clojure",
+                "license": null,
                 "last_commit": "2026-03-06T23:41:00Z",
+                "open_issues": 64,
                 "owner": "swannodette",
                 "repo": "mori",
-                "stars": 3369
+                "stars": 3369,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -988,12 +1669,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript & TypeScript persistent and optionally immutable data tree with cursors.",
+                "homepage": null,
                 "id": 27480700,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-05-10T23:49:10Z",
+                "open_issues": 49,
                 "owner": "Yomguithereal",
                 "repo": "baobab",
-                "stars": 3155
+                "stars": 3155,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1004,12 +1690,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐆 An immutable list with unmatched performance and a comprehensive functional API.",
+                "homepage": null,
                 "id": 68184811,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-01-15T10:31:01Z",
+                "open_issues": 22,
                 "owner": "funkia",
                 "repo": "list",
-                "stars": 1650
+                "stars": 1650,
+                "topics": [
+                  "data-structures",
+                  "fantasy-land",
+                  "functional-programming",
+                  "immutable",
+                  "immutable-lists",
+                  "ramda",
+                  "redux"
+                ]
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1020,12 +1719,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TypeScript-STL (Standard Template Library, migrated from C++)",
+                "homepage": null,
                 "id": 50482588,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-22T03:05:00Z",
+                "open_issues": 3,
                 "owner": "samchon",
                 "repo": "tstl",
-                "stars": 631
+                "stars": 631,
+                "topics": [
+                  "algorithm",
+                  "collection",
+                  "container",
+                  "critical-section",
+                  "hashmap",
+                  "iterator",
+                  "mutex",
+                  "semaphore",
+                  "stl",
+                  "treemap",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1036,12 +1752,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional Reactive State for JavaScript and TypeScript",
+                "homepage": null,
                 "id": 38574577,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2018-05-26T10:21:10Z",
+                "open_issues": 11,
                 "owner": "ds300",
                 "repo": "derivablejs",
-                "stars": 519
+                "stars": 519,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1052,12 +1773,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utilities for treating frozen JavaScript objects as persistent immutable collections",
+                "homepage": null,
                 "id": 23807560,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-08-09T22:16:11Z",
+                "open_issues": 2,
                 "owner": "aearly",
                 "repo": "icepick",
-                "stars": 421
+                "stars": 421,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1068,12 +1794,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional programming, immutable collections and FP constructs for typescript and javascript",
+                "homepage": null,
                 "id": 102025808,
                 "language": "TypeScript",
+                "license": "ISC",
                 "last_commit": "2024-03-12T14:54:24Z",
+                "open_issues": 16,
                 "owner": "emmanueltouzery",
                 "repo": "prelude-ts",
-                "stars": 383
+                "stars": 383,
+                "topics": [
+                  "data-structures",
+                  "fp",
+                  "functional-programming",
+                  "futures",
+                  "immutability",
+                  "immutable-collections",
+                  "javascript",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1084,12 +1824,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-performance immutable data structures for modern JavaScript and TypeScript applications. Functional interfaces, deep/composite operations API, mixed mutability API, TypeScript definitions, ES2015 module exports.",
+                "homepage": null,
                 "id": 71999171,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-03-06T05:28:35Z",
+                "open_issues": 39,
                 "owner": "frptools",
                 "repo": "collectable",
-                "stars": 279
+                "stars": 279,
+                "topics": [
+                  "batching",
+                  "data-structures",
+                  "deep",
+                  "dictionary",
+                  "es2015-modules",
+                  "hash-array-mapped-trie",
+                  "immutable",
+                  "immutablejs",
+                  "javascript",
+                  "javascript-library",
+                  "list",
+                  "map",
+                  "nested-structures",
+                  "red-black-tree",
+                  "set",
+                  "sorted-map",
+                  "sorted-set",
+                  "typescript",
+                  "typescript-definitions"
+                ]
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1100,12 +1865,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "😴 Functional programming with lazy immutable iterables",
+                "homepage": "https://imlazy.netlify.com",
                 "id": 45711354,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-02T15:22:08Z",
+                "open_issues": 7,
                 "owner": "benji6",
                 "repo": "imlazy",
-                "stars": 104
+                "stars": 104,
+                "topics": [
+                  "curried",
+                  "functional-programming",
+                  "generator",
+                  "haskell",
+                  "immutable",
+                  "infinite",
+                  "iterables",
+                  "iterator",
+                  "lazy",
+                  "ramda"
+                ]
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1116,12 +1897,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High performance implementation of Immutable Sequence in JavaScript, based on Finger Tree.",
+                "homepage": null,
                 "id": 21871518,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-08-10T04:00:58Z",
+                "open_issues": 0,
                 "owner": "qiao",
                 "repo": "immutable-sequence.js",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             }
@@ -1139,12 +1925,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Specification for interoperability of common algebraic structures in JavaScript",
+                "homepage": null,
                 "id": 9385519,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-11-10T21:50:53Z",
+                "open_issues": 36,
                 "owner": "fantasyland",
                 "repo": "fantasy-land",
-                "stars": 10240
+                "stars": 10240,
+                "topics": [
+                  "fantasy-land",
+                  "functional",
+                  "javascript",
+                  "specification"
+                ]
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1155,12 +1951,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Type-Safe Errors for JS & TypeScript",
+                "homepage": null,
                 "id": 183857874,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-02-14T23:23:06Z",
+                "open_issues": 83,
                 "owner": "supermacro",
                 "repo": "neverthrow",
-                "stars": 7692
+                "stars": 7692,
+                "topics": [
+                  "functional-programming",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1171,12 +1975,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":see_no_evil: Refuge from unsafe JavaScript",
+                "homepage": "https://sanctuary.js.org",
                 "id": 29455960,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-11-10T16:48:46Z",
+                "open_issues": 36,
                 "owner": "sanctuary-js",
                 "repo": "sanctuary",
-                "stars": 3052
+                "stars": 3052,
+                "topics": [
+                  "fantasy-land",
+                  "sanctuary"
+                ]
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1187,12 +1999,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦋 Fantasy Land compliant (monadic) alternative to Promises",
+                "homepage": null,
                 "id": 53253439,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-04-22T19:36:55Z",
+                "open_issues": 12,
                 "owner": "fluture-js",
                 "repo": "Fluture",
-                "stars": 2493
+                "stars": 2493,
+                "topics": [
+                  "algebraic-data-types",
+                  "async",
+                  "cancellation",
+                  "control-flow",
+                  "fantasy-land",
+                  "fluture",
+                  "functional-programming",
+                  "future",
+                  "monad",
+                  "promise",
+                  "sanctuary"
+                ]
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1203,12 +2032,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional programming library for TypeScript - https://gigobyte.github.io/purify/",
+                "homepage": null,
                 "id": 120522605,
                 "language": "TypeScript",
+                "license": "ISC",
                 "last_commit": "2025-12-16T09:02:32Z",
+                "open_issues": 3,
                 "owner": "gigobyte",
                 "repo": "purify",
-                "stars": 1603
+                "stars": 1603,
+                "topics": [
+                  "algebraic-data-types",
+                  "codec",
+                  "decode",
+                  "either",
+                  "fantasy-land",
+                  "functional-programming",
+                  "functor",
+                  "maybe",
+                  "monad",
+                  "option-type",
+                  "result-type",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1219,12 +2066,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of well known Algebraic Data Types for your utter enjoyment.",
+                "homepage": "https://crocks.dev",
                 "id": 62473217,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2023-01-06T01:32:51Z",
+                "open_issues": 69,
                 "owner": "evilsoft",
                 "repo": "crocks",
-                "stars": 1598
+                "stars": 1598,
+                "topics": [
+                  "adt",
+                  "composition",
+                  "curry",
+                  "functor",
+                  "lift",
+                  "monad",
+                  "monoid",
+                  "pair",
+                  "predicate-functions",
+                  "unary-functions"
+                ]
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1235,12 +2098,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Specification for common algebraic structures in JavaScript based on Fantasy Land",
+                "homepage": null,
                 "id": 53745720,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-10-29T13:34:03Z",
+                "open_issues": 11,
                 "owner": "fantasyland",
                 "repo": "static-land",
-                "stars": 775
+                "stars": 775,
+                "topics": [
+                  "adt",
+                  "algebra",
+                  "algebraic",
+                  "algebraic-data-types",
+                  "fantasy-land",
+                  "functional-programming",
+                  "functor",
+                  "monad",
+                  "monoid",
+                  "specification",
+                  "static-land"
+                ]
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1251,12 +2131,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Library for creating tagged constructors.",
+                "homepage": null,
                 "id": 10384029,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-07-19T10:37:27Z",
+                "open_issues": 2,
                 "owner": "fantasyland",
                 "repo": "daggy",
-                "stars": 707
+                "stars": 707,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1267,12 +2152,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🥃 Functional Algebraic Data Types",
+                "homepage": null,
                 "id": 170429491,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-05T15:45:57Z",
+                "open_issues": 0,
                 "owner": "rametta",
                 "repo": "pratica",
-                "stars": 490
+                "stars": 490,
+                "topics": [
+                  "fp",
+                  "functional-programming",
+                  "monads",
+                  "monoids",
+                  "typescript",
+                  "utilities"
+                ]
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1283,12 +2180,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "fantasyland extensions for immutablejs",
+                "homepage": null,
                 "id": 54686525,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2019-02-10T20:33:36Z",
+                "open_issues": 5,
                 "owner": "DrBoolean",
                 "repo": "immutable-ext",
-                "stars": 489
+                "stars": 489,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1299,12 +2201,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small JavaScript library for defining and using union types.",
+                "homepage": null,
                 "id": 35621932,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-06-05T12:33:58Z",
+                "open_issues": 18,
                 "owner": "paldepind",
                 "repo": "union-type",
-                "stars": 479
+                "stars": 479,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1315,12 +2222,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The library which provides useful monads, interfaces, and lazy iterators.",
+                "homepage": null,
                 "id": 207871270,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-11-18T23:57:13Z",
+                "open_issues": 13,
                 "owner": "JSMonk",
                 "repo": "sweet-monads",
-                "stars": 354
+                "stars": 354,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1331,12 +2243,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free monad Collection",
+                "homepage": null,
                 "id": 53267871,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-04-13T12:12:30Z",
+                "open_issues": 7,
                 "owner": "DrBoolean",
                 "repo": "freeky",
-                "stars": 176
+                "stars": 176,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1347,12 +2264,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MojiScript is an async-first, opinionated, and functional library",
+                "homepage": "https://mojiscript.js.org",
                 "id": 146668600,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-07-19T05:30:21Z",
+                "open_issues": 47,
                 "owner": "joelnet",
                 "repo": "MojiScript",
-                "stars": 147
+                "stars": 147,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1363,12 +2285,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "port of the haskell package Data.Aviary.Birds. Every thing for your combinatory needs.",
+                "homepage": null,
                 "id": 51715347,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-10-22T16:13:52Z",
+                "open_issues": 4,
                 "owner": "fantasyland",
                 "repo": "fantasy-birds",
-                "stars": 94
+                "stars": 94,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1379,12 +2306,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Common combinators.",
+                "homepage": null,
                 "id": 13914188,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-01-11T17:15:37Z",
+                "open_issues": 3,
                 "owner": "fantasyland",
                 "repo": "fantasy-combinators",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1395,12 +2327,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A utility library to write code in functional programming style in Javascript",
+                "homepage": null,
                 "id": 114736229,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-01-21T23:37:11Z",
+                "open_issues": 4,
                 "owner": "ritesh404",
                 "repo": "kudojs",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "applicative",
+                  "composition",
+                  "curry",
+                  "functional-js",
+                  "functional-programming",
+                  "functor",
+                  "javascript",
+                  "library",
+                  "monads",
+                  "nodejs",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             }
@@ -1418,12 +2367,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Partial lenses is a comprehensive, high-performance optics library for JavaScript",
+                "homepage": null,
                 "id": 50582234,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-11-18T13:19:33Z",
+                "open_issues": 23,
                 "owner": "calmm-js",
                 "repo": "partial.lenses",
-                "stars": 924
+                "stars": 924,
+                "topics": [
+                  "counterculture",
+                  "fold",
+                  "functional",
+                  "immutable",
+                  "isomorphism",
+                  "json",
+                  "lens",
+                  "optics",
+                  "partial-lenses",
+                  "traversal"
+                ]
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1434,12 +2399,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lodash-inspired lens-like library for Javascript",
+                "homepage": null,
                 "id": 67984466,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-06-13T18:40:53Z",
+                "open_issues": 3,
                 "owner": "jamesmcnamara",
                 "repo": "shades",
-                "stars": 418
+                "stars": 418,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1450,12 +2420,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Composable kmett style lenses",
+                "homepage": null,
                 "id": 15570912,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-09-28T15:38:11Z",
+                "open_issues": 3,
                 "owner": "DrBoolean",
                 "repo": "lenses",
-                "stars": 216
+                "stars": 216,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1466,12 +2441,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":ram: :mag_right: Lens library built on ramda",
+                "homepage": null,
                 "id": 49837740,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-06-13T23:59:04Z",
+                "open_issues": 4,
                 "owner": "ramda",
                 "repo": "ramda-lens",
-                "stars": 184
+                "stars": 184,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1482,12 +2462,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Lens Library for Javascript",
+                "homepage": "http://kovach.me/nanoscope",
                 "id": 27691779,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2016-12-09T18:25:24Z",
+                "open_issues": 5,
                 "owner": "5outh",
                 "repo": "nanoscope",
-                "stars": 178
+                "stars": 178,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1498,12 +2483,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Composable, immutable getters and setters.",
+                "homepage": null,
                 "id": 11539569,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-02-17T19:03:18Z",
+                "open_issues": 3,
                 "owner": "fantasyland",
                 "repo": "fantasy-lenses",
-                "stars": 108
+                "stars": 108,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1514,12 +2504,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Profunctor implementation of Lenses, Prisms, Traversals, Isos, etc.",
+                "homepage": null,
                 "id": 51406335,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-05-05T00:02:32Z",
+                "open_issues": 1,
                 "owner": "flunc",
                 "repo": "optics",
-                "stars": 87
+                "stars": 87,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             }
@@ -1541,12 +2536,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Clojure to JS compiler",
+            "homepage": null,
             "id": 2080922,
             "language": "Clojure",
+            "license": "EPL-1.0",
             "last_commit": "2026-08-10T01:25:46Z",
+            "open_issues": 7,
             "owner": "clojure",
             "repo": "clojurescript",
-            "stars": 9391
+            "stars": 9391,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -1557,12 +2557,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Haskell to JavaScript compiler, based on GHC",
+            "homepage": null,
             "id": 849182,
             "language": "Haskell",
+            "license": "MIT",
             "last_commit": "2023-01-21T23:46:36Z",
+            "open_issues": 292,
             "owner": "ghcjs",
             "repo": "ghcjs",
-            "stars": 2617
+            "stars": 2617,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -1573,12 +2578,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Converts Elixir to JavaScript",
+            "homepage": "https://elixirscript.github.io/",
             "id": 30160313,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2019-08-20T14:46:14Z",
+            "open_issues": 19,
             "owner": "elixirscript",
             "repo": "elixirscript",
-            "stars": 1565
+            "stars": 1565,
+            "topics": [
+              "compiler",
+              "elixir",
+              "javascript",
+              "transpiler"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -1589,12 +2604,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":baby_chick: A multi-paradigm programming language with gradual and duck typing that targets PHP and JS",
+            "homepage": null,
             "id": 43531497,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2020-09-30T16:41:19Z",
+            "open_issues": 8,
             "owner": "quack",
             "repo": "quack",
-            "stars": 326
+            "stars": 326,
+            "topics": [
+              "functional-programming",
+              "language",
+              "programming-language",
+              "programming-paradigms",
+              "repl"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -1605,12 +2631,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":ram: Lisp that compiles to JavaScript in the Ramda way",
+            "homepage": "https://yosbelms.github.io/ramdascript/",
             "id": 73753660,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-01-23T14:08:39Z",
+            "open_issues": 4,
             "owner": "yosbelms",
             "repo": "ramdascript",
-            "stars": 131
+            "stars": 131,
+            "topics": [
+              "functional",
+              "javascript",
+              "lisp",
+              "ramda",
+              "s-expression"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -1621,12 +2658,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "יון no BS JS",
+            "homepage": null,
             "id": 67341815,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-09-13T08:24:18Z",
+            "open_issues": 2,
             "owner": "ion-lang",
             "repo": "ion",
-            "stars": 80
+            "stars": 80,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -1637,12 +2679,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Racket to JavaScript Compiler",
+            "homepage": null,
             "id": 388361182,
             "language": "Racket",
+            "license": "MIT",
             "last_commit": "2021-08-30T18:19:22Z",
+            "open_issues": 0,
             "owner": "vishesh",
             "repo": "racketscript",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         }
@@ -1659,12 +2706,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ESLint rules for functional programming",
+            "homepage": null,
             "id": 61160796,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-01-01T22:02:02Z",
+            "open_issues": 31,
             "owner": "jfmengels",
             "repo": "eslint-plugin-fp",
-            "stars": 970
+            "stars": 970,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -1675,12 +2727,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Runtime type checking for JS with Hindley Milner signatures",
+            "homepage": null,
             "id": 82304022,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-03T15:42:33Z",
+            "open_issues": 13,
             "owner": "xodio",
             "repo": "hm-def",
-            "stars": 204
+            "stars": 204,
+            "topics": [
+              "functional-programming",
+              "hindley-milner",
+              "invariant",
+              "javascript",
+              "type-checking"
+            ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -1691,12 +2754,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monadic Assertions library",
+            "homepage": null,
             "id": 81700055,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2017-03-03T01:32:38Z",
+            "open_issues": 0,
             "owner": "TylorS",
             "repo": "4.5",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         }
@@ -1715,12 +2783,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mostly adequate guide to FP (in javascript)",
+                "homepage": null,
                 "id": 35133520,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-09-17T06:18:40Z",
+                "open_issues": 92,
                 "owner": "MostlyAdequate",
                 "repo": "mostly-adequate-guide",
-                "stars": 23822
+                "stars": 23822,
+                "topics": [
+                  "functional-programming",
+                  "javascript",
+                  "reactive-programming",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1731,12 +2809,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter.",
+                "homepage": "http://FLJSBook.com",
                 "id": 65866559,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-26T15:46:02Z",
+                "open_issues": 27,
                 "owner": "getify",
                 "repo": "Functional-Light-JS",
-                "stars": 16738
+                "stars": 16738,
+                "topics": [
+                  "book",
+                  "education",
+                  "functional-programming",
+                  "javascript",
+                  "training-materials",
+                  "training-providers"
+                ]
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1747,12 +2837,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "No-Frills Functional Programming Lib Augmenting Javascript/Node.js",
+                "homepage": null,
                 "id": 122365303,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-08-13T06:24:34Z",
+                "open_issues": 0,
                 "owner": "robotroutine",
                 "repo": "scriptum",
-                "stars": 381
+                "stars": 381,
+                "topics": [
+                  "composition",
+                  "fold",
+                  "folding",
+                  "function-composition",
+                  "functional-programming",
+                  "javascript",
+                  "natural-language-processing",
+                  "natural-language-understanding",
+                  "nlp",
+                  "persistent-data-structure",
+                  "pure-function",
+                  "purity",
+                  "recursion",
+                  "structural-sharing"
+                ]
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             }
@@ -1770,12 +2880,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jargon from the functional programming world in simple terms!",
+                "homepage": "http://git.io/fp-jargons",
                 "id": 31168578,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-10-17T12:04:55Z",
+                "open_issues": 27,
                 "owner": "hemanth",
                 "repo": "functional-programming-jargon",
-                "stars": 18646
+                "stars": 18646,
+                "topics": [
+                  "awesome-list",
+                  "education",
+                  "fp",
+                  "functional-programming",
+                  "glossary",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1786,12 +2908,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Avoid The One-off Problem, Infinite Loops, Statefulness and Hidden intent.",
+                "homepage": null,
                 "id": 221161068,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-10-15T07:23:53Z",
+                "open_issues": 5,
                 "owner": "you-dont-need",
                 "repo": "You-Dont-Need-Loops",
-                "stars": 1174
+                "stars": 1174,
+                "topics": [
+                  "f-algebras",
+                  "fold",
+                  "fp",
+                  "hacktoberfest",
+                  "higher-order-function",
+                  "infinite-loops",
+                  "loops",
+                  "recursion",
+                  "tail-recursion"
+                ]
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             }
@@ -1809,12 +2946,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A puzzle game inspired by functional programming",
+                "homepage": "https://david-peter.de/cube-composer",
                 "id": 31920956,
                 "language": "PureScript",
+                "license": "MIT",
                 "last_commit": "2022-12-08T09:23:40Z",
+                "open_issues": 10,
                 "owner": "sharkdp",
                 "repo": "cube-composer",
-                "stars": 2047
+                "stars": 2047,
+                "topics": [
+                  "browser-game",
+                  "functional-programming",
+                  "game",
+                  "programming-exercise",
+                  "purescript",
+                  "puzzle"
+                ]
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1825,12 +2974,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A functional javascript workshop. No libraries required (i.e. no underscore), just ES5.",
+                "homepage": null,
                 "id": 12946174,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-10-08T09:28:30Z",
+                "open_issues": 83,
                 "owner": "timoxley",
                 "repo": "functional-javascript-workshop",
-                "stars": 2040
+                "stars": 2040,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1841,12 +2995,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A functional frontend framework.",
+                "homepage": null,
                 "id": 35723130,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-07-02T08:08:39Z",
+                "open_issues": 9,
                 "owner": "paldepind",
                 "repo": "functional-frontend-architecture",
-                "stars": 1436
+                "stars": 1436,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1857,12 +3016,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example Project & Guide for mastering Promises in Node/JavaScript. Feat. proposed 'Functional River' pattern",
+                "homepage": null,
                 "id": 90344706,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-02-24T23:44:51Z",
+                "open_issues": 12,
                 "owner": "justsml",
                 "repo": "escape-from-callback-mountain",
-                "stars": 256
+                "stars": 256,
+                "topics": [
+                  "callback",
+                  "callback-mountain",
+                  "callbacks",
+                  "example",
+                  "functional-river",
+                  "guide",
+                  "hoc",
+                  "javascript",
+                  "modular",
+                  "modular-js",
+                  "nodejs",
+                  "patterns",
+                  "promise",
+                  "refactoring"
+                ]
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1873,12 +3052,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learning the functional paradigm with js",
+                "homepage": null,
                 "id": 30218234,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-08-01T14:56:49Z",
+                "open_issues": 0,
                 "owner": "loop-recur",
                 "repo": "FPJS-Class",
-                "stars": 94
+                "stars": 94,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1889,12 +3073,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "YouTube search app with ReactJS, Redux, and FP concepts",
+                "homepage": "http://jaysoo.ca/2016/01/13/functional-programming-little-ideas/",
                 "id": 49396054,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-01-26T01:16:13Z",
+                "open_issues": 1,
                 "owner": "jaysoo",
                 "repo": "example-fp-youtube-search",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             }
@@ -1918,12 +3107,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yet another resource for collecting articles, videos etc. regarding functional programming",
+                "homepage": null,
                 "id": 46194363,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-01-16T08:10:48Z",
+                "open_issues": 13,
                 "owner": "xgrommx",
                 "repo": "awesome-functional-programming",
-                "stars": 3533
+                "stars": 3533,
+                "topics": [
+                  "awesome-functional-programming",
+                  "awesome-list",
+                  "awsome",
+                  "f-algebras",
+                  "functional-languages",
+                  "recursion",
+                  "recursion-schemes"
+                ]
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1934,12 +3136,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✨ A Learning Path for Functional Programming",
+                "homepage": null,
                 "id": 145241512,
                 "language": "Clojure",
+                "license": "MIT",
                 "last_commit": "2024-10-22T11:41:29Z",
+                "open_issues": 1,
                 "owner": "imteekay",
                 "repo": "functional-programming-learning-path",
-                "stars": 1042
+                "stars": 1042,
+                "topics": [
+                  "clojure",
+                  "functional-languages",
+                  "functional-programming",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1950,12 +3162,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":alien: A curated list of functional programming resources such as blog posts, communities, discussion topics, wikis and more.",
+                "homepage": null,
                 "id": 45216861,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-04-22T09:00:07Z",
+                "open_issues": 1,
                 "owner": "lucasviola",
                 "repo": "awesome-functional-programming",
-                "stars": 1009
+                "stars": 1009,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1966,12 +3183,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 16745225,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-10-01T01:46:47Z",
+                "open_issues": 2,
                 "owner": "busypeoples",
                 "repo": "functional-programming-javascript",
-                "stars": 302
+                "stars": 302,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1982,12 +3204,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome functional reactive programming stuff in js",
+                "homepage": null,
                 "id": 42401913,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-10-29T01:45:24Z",
+                "open_issues": 9,
                 "owner": "stoeffel",
                 "repo": "awesome-frp-js",
-                "stars": 287
+                "stars": 287,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             }
@@ -2001,15 +3228,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:13:32.618Z",
+    "last_updated": "2026-08-29T04:18:22.104Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":sunglasses: A curated list of awesome functional programming stuff in js",
+      "homepage": null,
       "id": 35660659,
       "language": null,
+      "license": null,
       "last_commit": "2026-01-15T19:55:47Z",
+      "open_issues": 1,
       "owner": "stoeffel",
       "repo": "awesome-fp-js",
-      "stars": 6035
+      "stars": 6035,
+      "topics": []
     },
     "original_repository_sha": "f70c4c7906c1cad07bc143d899fee3f782bfcba7",
     "enhanced_repository": "enhansome/enhansome-fp-js",
