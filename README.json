@@ -15,7 +15,7 @@
             "last_commit": "2026-07-03T19:48:01Z",
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61284
+            "stars": 61283
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -44,10 +44,10 @@
             "archived": false,
             "id": 221458136,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T05:16:26Z",
+            "last_commit": "2026-08-28T17:16:43Z",
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 15538
+            "stars": 15549
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -63,7 +63,7 @@
             "last_commit": "2026-08-10T23:33:38Z",
             "owner": "gvergnaud",
             "repo": "ts-pattern",
-            "stars": 15138
+            "stars": 15139
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -140,10 +140,10 @@
             "archived": false,
             "id": 104394958,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T21:36:12Z",
+            "last_commit": "2026-08-29T00:05:36Z",
             "owner": "true-myth",
             "repo": "true-myth",
-            "stars": 1361
+            "stars": 1362
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -156,10 +156,10 @@
             "archived": false,
             "id": 411941706,
             "language": "TypeScript",
-            "last_commit": "2026-08-08T14:05:49Z",
+            "last_commit": "2026-08-29T03:06:46Z",
             "owner": "marpple",
             "repo": "FxTS",
-            "stars": 1166
+            "stars": 1167
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -929,7 +929,7 @@
                 "last_commit": "2026-08-27T12:12:31Z",
                 "owner": "immutable-js",
                 "repo": "immutable-js",
-                "stars": 33041
+                "stars": 33040
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -945,7 +945,7 @@
                 "last_commit": "2026-08-19T07:57:23Z",
                 "owner": "immerjs",
                 "repo": "immer",
-                "stars": 28980
+                "stars": 28981
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -1546,7 +1546,7 @@
             "last_commit": "2026-08-10T01:25:46Z",
             "owner": "clojure",
             "repo": "clojurescript",
-            "stars": 9390
+            "stars": 9391
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
         },
@@ -1775,7 +1775,7 @@
                 "last_commit": "2023-10-17T12:04:55Z",
                 "owner": "hemanth",
                 "repo": "functional-programming-jargon",
-                "stars": 18647
+                "stars": 18646
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
             },
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:31:26.568Z",
+    "last_updated": "2026-08-29T03:13:32.618Z",
     "original_repository_info": {
       "archived": false,
       "id": 35660659,
