@@ -19,7 +19,7 @@
             "open_issues": 106,
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61279,
+            "stars": 61278,
             "topics": [
               "javascript",
               "lodash",
@@ -65,11 +65,11 @@
             "id": 221458136,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T09:23:32Z",
-            "open_issues": 230,
+            "last_commit": "2026-08-30T23:18:57Z",
+            "open_issues": 237,
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 15555,
+            "stars": 15566,
             "topics": [
               "cli",
               "clustering",
@@ -189,7 +189,7 @@
             "open_issues": 10,
             "owner": "js-joda",
             "repo": "js-joda",
-            "stars": 1664,
+            "stars": 1665,
             "topics": [
               "date",
               "immutable",
@@ -1833,7 +1833,7 @@
                 "open_issues": 39,
                 "owner": "frptools",
                 "repo": "collectable",
-                "stars": 279,
+                "stars": 280,
                 "topics": [
                   "batching",
                   "data-structures",
@@ -1960,7 +1960,7 @@
                 "open_issues": 83,
                 "owner": "supermacro",
                 "repo": "neverthrow",
-                "stars": 7692,
+                "stars": 7693,
                 "topics": [
                   "functional-programming",
                   "typescript"
@@ -2792,7 +2792,7 @@
                 "open_issues": 92,
                 "owner": "MostlyAdequate",
                 "repo": "mostly-adequate-guide",
-                "stars": 23822,
+                "stars": 23821,
                 "topics": [
                   "functional-programming",
                   "javascript",
@@ -3228,7 +3228,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T23:28:50.298Z",
+    "last_updated": "2026-08-30T23:40:13.939Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome functional programming stuff in js",
