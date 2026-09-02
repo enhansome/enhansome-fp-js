@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-07-03T19:48:01Z",
-            "open_issues": 106,
+            "open_issues": 105,
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61277,
+            "stars": 61278,
             "topics": [
               "javascript",
               "lodash",
@@ -45,7 +45,7 @@
             "open_issues": 146,
             "owner": "ramda",
             "repo": "ramda",
-            "stars": 24056,
+            "stars": 24055,
             "topics": [
               "javascript",
               "ramda"
@@ -65,11 +65,11 @@
             "id": 221458136,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T23:12:27Z",
-            "open_issues": 240,
+            "last_commit": "2026-09-02T23:24:29Z",
+            "open_issues": 358,
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 15636,
+            "stars": 15779,
             "topics": [
               "cli",
               "clustering",
@@ -104,7 +104,7 @@
             "open_issues": 72,
             "owner": "gvergnaud",
             "repo": "ts-pattern",
-            "stars": 15142,
+            "stars": 15144,
             "topics": [
               "branching",
               "conditions",
@@ -152,10 +152,10 @@
             "description": "Typescript focused FP library similar to Remeda and Ramda",
             "homepage": "https://selfrefactor.github.io/rambda/",
             "id": 79035508,
-            "language": "JavaScript",
+            "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-13T13:58:08Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-02T16:05:49Z",
+            "open_issues": 0,
             "owner": "selfrefactor",
             "repo": "rambda",
             "stars": 1754,
@@ -333,8 +333,8 @@
             "id": 81263716,
             "language": "JavaScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-01T00:08:49Z",
-            "open_issues": 69,
+            "last_commit": "2026-09-02T17:40:30Z",
+            "open_issues": 70,
             "owner": "char0n",
             "repo": "ramda-adjunct",
             "stars": 687,
@@ -938,7 +938,7 @@
             "open_issues": 1,
             "owner": "mnasyrov",
             "repo": "ditox",
-            "stars": 102,
+            "stars": 103,
             "topics": [
               "container",
               "dependency",
@@ -1209,8 +1209,8 @@
             "id": 135992999,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-17T08:03:14Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-02T18:05:30Z",
+            "open_issues": 9,
             "owner": "TeaEntityLab",
             "repo": "fpEs",
             "stars": 43,
@@ -1584,11 +1584,11 @@
                 "id": 21413198,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-27T12:12:31Z",
-                "open_issues": 130,
+                "last_commit": "2026-09-02T20:07:22Z",
+                "open_issues": 129,
                 "owner": "immutable-js",
                 "repo": "immutable-js",
-                "stars": 33037,
+                "stars": 33035,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
@@ -1605,8 +1605,8 @@
                 "id": 115720575,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-19T07:57:23Z",
-                "open_issues": 40,
+                "last_commit": "2026-09-02T22:22:11Z",
+                "open_issues": 41,
                 "owner": "immerjs",
                 "repo": "immer",
                 "stars": 28981,
@@ -1803,7 +1803,7 @@
                 "open_issues": 16,
                 "owner": "emmanueltouzery",
                 "repo": "prelude-ts",
-                "stars": 383,
+                "stars": 384,
                 "topics": [
                   "data-structures",
                   "fp",
@@ -1934,7 +1934,7 @@
                 "open_issues": 36,
                 "owner": "fantasyland",
                 "repo": "fantasy-land",
-                "stars": 10240,
+                "stars": 10239,
                 "topics": [
                   "fantasy-land",
                   "functional",
@@ -1960,7 +1960,7 @@
                 "open_issues": 83,
                 "owner": "supermacro",
                 "repo": "neverthrow",
-                "stars": 7696,
+                "stars": 7698,
                 "topics": [
                   "functional-programming",
                   "typescript"
@@ -2715,7 +2715,7 @@
             "open_issues": 31,
             "owner": "jfmengels",
             "repo": "eslint-plugin-fp",
-            "stars": 970,
+            "stars": 969,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
@@ -2792,7 +2792,7 @@
                 "open_issues": 92,
                 "owner": "MostlyAdequate",
                 "repo": "mostly-adequate-guide",
-                "stars": 23823,
+                "stars": 23824,
                 "topics": [
                   "functional-programming",
                   "javascript",
@@ -3228,7 +3228,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T23:27:16.469Z",
+    "last_updated": "2026-09-02T23:27:43.858Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome functional programming stuff in js",
@@ -3240,7 +3240,7 @@
       "open_issues": 1,
       "owner": "stoeffel",
       "repo": "awesome-fp-js",
-      "stars": 6035,
+      "stars": 6036,
       "topics": []
     },
     "original_repository_sha": "f70c4c7906c1cad07bc143d899fee3f782bfcba7",
