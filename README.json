@@ -19,7 +19,7 @@
             "open_issues": 104,
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61279,
+            "stars": 61277,
             "topics": [
               "javascript",
               "lodash",
@@ -65,11 +65,11 @@
             "id": 221458136,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T23:17:23Z",
-            "open_issues": 311,
+            "last_commit": "2026-09-04T20:24:16Z",
+            "open_issues": 293,
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 15826,
+            "stars": 15851,
             "topics": [
               "cli",
               "clustering",
@@ -104,7 +104,7 @@
             "open_issues": 75,
             "owner": "gvergnaud",
             "repo": "ts-pattern",
-            "stars": 15145,
+            "stars": 15146,
             "topics": [
               "branching",
               "conditions",
@@ -333,8 +333,8 @@
             "id": 81263716,
             "language": "JavaScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-03T00:01:21Z",
-            "open_issues": 69,
+            "last_commit": "2026-09-03T23:53:15Z",
+            "open_issues": 72,
             "owner": "char0n",
             "repo": "ramda-adjunct",
             "stars": 687,
@@ -1934,7 +1934,7 @@
                 "open_issues": 36,
                 "owner": "fantasyland",
                 "repo": "fantasy-land",
-                "stars": 10239,
+                "stars": 10238,
                 "topics": [
                   "fantasy-land",
                   "functional",
@@ -1960,7 +1960,7 @@
                 "open_issues": 83,
                 "owner": "supermacro",
                 "repo": "neverthrow",
-                "stars": 7699,
+                "stars": 7700,
                 "topics": [
                   "functional-programming",
                   "typescript"
@@ -2041,7 +2041,7 @@
                 "open_issues": 3,
                 "owner": "gigobyte",
                 "repo": "purify",
-                "stars": 1604,
+                "stars": 1605,
                 "topics": [
                   "algebraic-data-types",
                   "codec",
@@ -2545,7 +2545,7 @@
             "open_issues": 7,
             "owner": "clojure",
             "repo": "clojurescript",
-            "stars": 9392,
+            "stars": 9393,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
@@ -2818,7 +2818,7 @@
                 "open_issues": 27,
                 "owner": "getify",
                 "repo": "Functional-Light-JS",
-                "stars": 16737,
+                "stars": 16738,
                 "topics": [
                   "book",
                   "education",
@@ -3116,7 +3116,7 @@
                 "open_issues": 13,
                 "owner": "xgrommx",
                 "repo": "awesome-functional-programming",
-                "stars": 3532,
+                "stars": 3531,
                 "topics": [
                   "awesome-functional-programming",
                   "awesome-list",
@@ -3228,7 +3228,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T23:23:40.520Z",
+    "last_updated": "2026-09-04T23:08:23.377Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome functional programming stuff in js",
@@ -3240,7 +3240,7 @@
       "open_issues": 1,
       "owner": "stoeffel",
       "repo": "awesome-fp-js",
-      "stars": 6036,
+      "stars": 6037,
       "topics": []
     },
     "original_repository_sha": "f70c4c7906c1cad07bc143d899fee3f782bfcba7",
