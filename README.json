@@ -19,7 +19,7 @@
             "open_issues": 104,
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61277,
+            "stars": 61278,
             "topics": [
               "javascript",
               "lodash",
@@ -45,7 +45,7 @@
             "open_issues": 146,
             "owner": "ramda",
             "repo": "ramda",
-            "stars": 24054,
+            "stars": 24053,
             "topics": [
               "javascript",
               "ramda"
@@ -65,11 +65,11 @@
             "id": 221458136,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T20:24:16Z",
-            "open_issues": 293,
+            "last_commit": "2026-09-05T20:55:38Z",
+            "open_issues": 261,
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 15851,
+            "stars": 15866,
             "topics": [
               "cli",
               "clustering",
@@ -158,7 +158,7 @@
             "open_issues": 0,
             "owner": "selfrefactor",
             "repo": "rambda",
-            "stars": 1754,
+            "stars": 1755,
             "topics": [
               "fp",
               "functional",
@@ -268,7 +268,7 @@
             "open_issues": 8,
             "owner": "marpple",
             "repo": "FxTS",
-            "stars": 1169,
+            "stars": 1166,
             "topics": [
               "concurrency",
               "fp",
@@ -333,8 +333,8 @@
             "id": 81263716,
             "language": "JavaScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-03T23:53:15Z",
-            "open_issues": 72,
+            "last_commit": "2026-09-04T23:52:55Z",
+            "open_issues": 73,
             "owner": "char0n",
             "repo": "ramda-adjunct",
             "stars": 687,
@@ -657,33 +657,6 @@
         },
         {
           "node_type": "item",
-          "title": "Rambdax",
-          "description": "Extended version of Rambda",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Extended version of Rambda ",
-            "homepage": "https://selfrefactor.github.io/rambdax",
-            "id": 87567927,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2025-06-26T08:14:12Z",
-            "open_issues": 0,
-            "owner": "selfrefactor",
-            "repo": "rambdax",
-            "stars": 223,
-            "topics": [
-              "functional-programming",
-              "lodash",
-              "rambda",
-              "ramda",
-              "utils"
-            ]
-          },
-          "first_seen": "2026-08-28T05:31:26.568Z"
-        },
-        {
-          "node_type": "item",
           "title": "functional.js",
           "description": "A lightweight functional JavaScript library that facilitates currying and point-free / tacit programming.",
           "children": [],
@@ -698,7 +671,7 @@
             "open_issues": 0,
             "owner": "functionaljs",
             "repo": "functional-js",
-            "stars": 223,
+            "stars": 224,
             "topics": [
               "ai-friendly",
               "composition",
@@ -720,6 +693,33 @@
               "tree-shaking",
               "typescript",
               "zero-dependencies"
+            ]
+          },
+          "first_seen": "2026-08-28T05:31:26.568Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Rambdax",
+          "description": "Extended version of Rambda",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Extended version of Rambda ",
+            "homepage": "https://selfrefactor.github.io/rambdax",
+            "id": 87567927,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2025-06-26T08:14:12Z",
+            "open_issues": 0,
+            "owner": "selfrefactor",
+            "repo": "rambdax",
+            "stars": 223,
+            "topics": [
+              "functional-programming",
+              "lodash",
+              "rambda",
+              "ramda",
+              "utils"
             ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
@@ -1605,11 +1605,11 @@
                 "id": 115720575,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T14:38:40Z",
-                "open_issues": 42,
+                "last_commit": "2026-09-05T07:53:33Z",
+                "open_issues": 44,
                 "owner": "immerjs",
                 "repo": "immer",
-                "stars": 28981,
+                "stars": 28980,
                 "topics": [
                   "immutable",
                   "immutables",
@@ -1960,7 +1960,7 @@
                 "open_issues": 83,
                 "owner": "supermacro",
                 "repo": "neverthrow",
-                "stars": 7700,
+                "stars": 7702,
                 "topics": [
                   "functional-programming",
                   "typescript"
@@ -2818,7 +2818,7 @@
                 "open_issues": 27,
                 "owner": "getify",
                 "repo": "Functional-Light-JS",
-                "stars": 16738,
+                "stars": 16736,
                 "topics": [
                   "book",
                   "education",
@@ -2889,7 +2889,7 @@
                 "open_issues": 27,
                 "owner": "hemanth",
                 "repo": "functional-programming-jargon",
-                "stars": 18649,
+                "stars": 18648,
                 "topics": [
                   "awesome-list",
                   "education",
@@ -3228,7 +3228,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T23:08:23.377Z",
+    "last_updated": "2026-09-05T23:04:29.932Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome functional programming stuff in js",
