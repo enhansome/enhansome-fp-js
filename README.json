@@ -19,7 +19,7 @@
             "open_issues": 105,
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61280,
+            "stars": 61279,
             "topics": [
               "javascript",
               "lodash",
@@ -45,7 +45,7 @@
             "open_issues": 147,
             "owner": "ramda",
             "repo": "ramda",
-            "stars": 24053,
+            "stars": 24051,
             "topics": [
               "javascript",
               "ramda"
@@ -65,11 +65,11 @@
             "id": 221458136,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T23:24:04Z",
-            "open_issues": 246,
+            "last_commit": "2026-09-10T22:09:05Z",
+            "open_issues": 252,
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 15946,
+            "stars": 15958,
             "topics": [
               "cli",
               "clustering",
@@ -104,7 +104,7 @@
             "open_issues": 76,
             "owner": "gvergnaud",
             "repo": "ts-pattern",
-            "stars": 15147,
+            "stars": 15146,
             "topics": [
               "branching",
               "conditions",
@@ -1584,11 +1584,11 @@
                 "id": 21413198,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T00:12:21Z",
-                "open_issues": 137,
+                "last_commit": "2026-09-10T02:52:02Z",
+                "open_issues": 138,
                 "owner": "immutable-js",
                 "repo": "immutable-js",
-                "stars": 33032,
+                "stars": 33031,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
@@ -1605,8 +1605,8 @@
                 "id": 115720575,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-08T23:45:22Z",
-                "open_issues": 46,
+                "last_commit": "2026-09-10T18:22:18Z",
+                "open_issues": 49,
                 "owner": "immerjs",
                 "repo": "immer",
                 "stars": 28982,
@@ -1636,7 +1636,7 @@
                 "open_issues": 59,
                 "owner": "dtao",
                 "repo": "lazy.js",
-                "stars": 5966,
+                "stars": 5965,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
@@ -1934,7 +1934,7 @@
                 "open_issues": 36,
                 "owner": "fantasyland",
                 "repo": "fantasy-land",
-                "stars": 10237,
+                "stars": 10236,
                 "topics": [
                   "fantasy-land",
                   "functional",
@@ -1984,7 +1984,7 @@
                 "open_issues": 36,
                 "owner": "sanctuary-js",
                 "repo": "sanctuary",
-                "stars": 3051,
+                "stars": 3050,
                 "topics": [
                   "fantasy-land",
                   "sanctuary"
@@ -2818,7 +2818,7 @@
                 "open_issues": 27,
                 "owner": "getify",
                 "repo": "Functional-Light-JS",
-                "stars": 16736,
+                "stars": 16735,
                 "topics": [
                   "book",
                   "education",
@@ -2917,7 +2917,7 @@
                 "open_issues": 5,
                 "owner": "you-dont-need",
                 "repo": "You-Dont-Need-Loops",
-                "stars": 1174,
+                "stars": 1175,
                 "topics": [
                   "f-algebras",
                   "fold",
@@ -2983,7 +2983,7 @@
                 "open_issues": 83,
                 "owner": "timoxley",
                 "repo": "functional-javascript-workshop",
-                "stars": 2037,
+                "stars": 2036,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
@@ -3228,7 +3228,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T23:24:08.375Z",
+    "last_updated": "2026-09-10T23:18:06.838Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome functional programming stuff in js",
