@@ -41,8 +41,8 @@
             "id": 10851820,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-07-26T15:18:52Z",
-            "open_issues": 148,
+            "last_commit": "2026-09-14T05:40:39Z",
+            "open_issues": 147,
             "owner": "ramda",
             "repo": "ramda",
             "stars": 24048,
@@ -65,11 +65,11 @@
             "id": 221458136,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T22:51:57Z",
-            "open_issues": 263,
+            "last_commit": "2026-09-14T23:27:28Z",
+            "open_issues": 253,
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 16023,
+            "stars": 16040,
             "topics": [
               "cli",
               "clustering",
@@ -104,7 +104,7 @@
             "open_issues": 77,
             "owner": "gvergnaud",
             "repo": "ts-pattern",
-            "stars": 15148,
+            "stars": 15152,
             "topics": [
               "branching",
               "conditions",
@@ -158,7 +158,7 @@
             "open_issues": 0,
             "owner": "selfrefactor",
             "repo": "rambda",
-            "stars": 1756,
+            "stars": 1757,
             "topics": [
               "fp",
               "functional",
@@ -333,8 +333,8 @@
             "id": 81263716,
             "language": "JavaScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-11T00:07:55Z",
-            "open_issues": 70,
+            "last_commit": "2026-09-14T23:54:44Z",
+            "open_issues": 75,
             "owner": "char0n",
             "repo": "ramda-adjunct",
             "stars": 687,
@@ -1209,7 +1209,7 @@
             "id": 135992999,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T02:03:16Z",
+            "last_commit": "2026-09-14T08:03:26Z",
             "open_issues": 10,
             "owner": "TeaEntityLab",
             "repo": "fpEs",
@@ -1588,7 +1588,7 @@
                 "open_issues": 138,
                 "owner": "immutable-js",
                 "repo": "immutable-js",
-                "stars": 33031,
+                "stars": 33030,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
@@ -1728,7 +1728,7 @@
                 "open_issues": 3,
                 "owner": "samchon",
                 "repo": "tstl",
-                "stars": 631,
+                "stars": 630,
                 "topics": [
                   "algorithm",
                   "collection",
@@ -1960,7 +1960,7 @@
                 "open_issues": 83,
                 "owner": "supermacro",
                 "repo": "neverthrow",
-                "stars": 7709,
+                "stars": 7716,
                 "topics": [
                   "functional-programming",
                   "typescript"
@@ -2818,7 +2818,7 @@
                 "open_issues": 27,
                 "owner": "getify",
                 "repo": "Functional-Light-JS",
-                "stars": 16734,
+                "stars": 16733,
                 "topics": [
                   "book",
                   "education",
@@ -2885,7 +2885,7 @@
                 "id": 31168578,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T20:36:33Z",
+                "last_commit": "2026-09-14T14:58:00Z",
                 "open_issues": 27,
                 "owner": "hemanth",
                 "repo": "functional-programming-jargon",
@@ -3228,7 +3228,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T23:17:06.466Z",
+    "last_updated": "2026-09-14T23:55:16.588Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome functional programming stuff in js",
