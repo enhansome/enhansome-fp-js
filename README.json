@@ -19,7 +19,7 @@
             "open_issues": 105,
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61278,
+            "stars": 61276,
             "topics": [
               "javascript",
               "lodash",
@@ -42,7 +42,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-15T05:39:42Z",
-            "open_issues": 142,
+            "open_issues": 143,
             "owner": "ramda",
             "repo": "ramda",
             "stars": 24049,
@@ -65,11 +65,11 @@
             "id": 221458136,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T22:23:44Z",
-            "open_issues": 255,
+            "last_commit": "2026-09-17T21:10:58Z",
+            "open_issues": 260,
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 16085,
+            "stars": 16098,
             "topics": [
               "cli",
               "clustering",
@@ -1960,7 +1960,7 @@
                 "open_issues": 83,
                 "owner": "supermacro",
                 "repo": "neverthrow",
-                "stars": 7716,
+                "stars": 7718,
                 "topics": [
                   "functional-programming",
                   "typescript"
@@ -2584,7 +2584,7 @@
             "language": "Elixir",
             "license": "MIT",
             "last_commit": "2019-08-20T14:46:14Z",
-            "open_issues": 19,
+            "open_issues": 23,
             "owner": "elixirscript",
             "repo": "elixirscript",
             "stars": 1565,
@@ -2818,7 +2818,7 @@
                 "open_issues": 27,
                 "owner": "getify",
                 "repo": "Functional-Light-JS",
-                "stars": 16731,
+                "stars": 16730,
                 "topics": [
                   "book",
                   "education",
@@ -2889,7 +2889,7 @@
                 "open_issues": 27,
                 "owner": "hemanth",
                 "repo": "functional-programming-jargon",
-                "stars": 18684,
+                "stars": 18688,
                 "topics": [
                   "awesome-list",
                   "education",
@@ -2983,7 +2983,7 @@
                 "open_issues": 83,
                 "owner": "timoxley",
                 "repo": "functional-javascript-workshop",
-                "stars": 2036,
+                "stars": 2035,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
@@ -3116,7 +3116,7 @@
                 "open_issues": 13,
                 "owner": "xgrommx",
                 "repo": "awesome-functional-programming",
-                "stars": 3530,
+                "stars": 3531,
                 "topics": [
                   "awesome-functional-programming",
                   "awesome-list",
@@ -3228,7 +3228,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T23:42:39.512Z",
+    "last_updated": "2026-09-17T23:35:47.305Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome functional programming stuff in js",
