@@ -29,12 +29,12 @@ These may be appended to entries.  Each should be preceded by a "+" or "-" to in
 
 ## Libraries
 
-* [lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide) ⭐ 61,273 | 🐛 106 | 🌐 JavaScript | 📅 2026-09-11 – An instance of [Lodash](https://github.com/lodash/lodash) ⭐ 61,273 | 🐛 106 | 🌐 JavaScript | 📅 2026-09-11 with its methods wrapped to produce immutable, auto-curried, iteratee-first, data-last methods. +TS.
-* [Ramda](https://github.com/ramda/ramda) ⭐ 24,050 | 🐛 143 | 🌐 JavaScript | 📅 2026-09-15 – A practical functional library for JavaScript that is designed specifically for a functional programming style. A style that makes it easy to create functional pipelines and never mutates user data. +TS.
-* [effect-ts](https://github.com/Effect-TS/core) ⭐ 16,115 | 🐛 263 | 🌐 TypeScript | 📅 2026-09-18 – A Fully-fledged functional effect system for typescript with a rich standard library. +TS
-* [ts-pattern](https://github.com/gvergnaud/ts-pattern) ⭐ 15,161 | 🐛 77 | 🌐 TypeScript | 📅 2026-09-11 - The exhaustive Pattern Matching library for TypeScript, with smart type inference. Pattern Matching is a code-branching technique coming from FP languages.
+* [lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide) ⭐ 61,272 | 🐛 106 | 🌐 JavaScript | 📅 2026-09-11 – An instance of [Lodash](https://github.com/lodash/lodash) ⭐ 61,272 | 🐛 106 | 🌐 JavaScript | 📅 2026-09-11 with its methods wrapped to produce immutable, auto-curried, iteratee-first, data-last methods. +TS.
+* [Ramda](https://github.com/ramda/ramda) ⭐ 24,051 | 🐛 143 | 🌐 JavaScript | 📅 2026-09-15 – A practical functional library for JavaScript that is designed specifically for a functional programming style. A style that makes it easy to create functional pipelines and never mutates user data. +TS.
+* [effect-ts](https://github.com/Effect-TS/core) ⭐ 16,138 | 🐛 270 | 🌐 TypeScript | 📅 2026-09-19 – A Fully-fledged functional effect system for typescript with a rich standard library. +TS
+* [ts-pattern](https://github.com/gvergnaud/ts-pattern) ⭐ 15,163 | 🐛 77 | 🌐 TypeScript | 📅 2026-09-11 - The exhaustive Pattern Matching library for TypeScript, with smart type inference. Pattern Matching is a code-branching technique coming from FP languages.
 * [most](https://github.com/cujojs/most) ⭐ 3,489 | 🐛 50 | 🌐 JavaScript | 📅 2022-12-06 – Ultra-high performance reactive programming to help you compose asynchronous operations on streams of values and events without many of the hazards of side effects and mutable shared state.
-* [Rambda](https://github.com/selfrefactor/rambda) ⭐ 1,758 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-03 - A faster alternative to Ramda in under 10kB.
+* [Rambda](https://github.com/selfrefactor/rambda) ⭐ 1,757 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-03 - A faster alternative to Ramda in under 10kB.
 * [js-joda](https://github.com/js-joda/js-joda) ⭐ 1,664 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-24 – An immutable date and time library that provides a simple, domain-driven and clean API based on the ISO8601 calendar.
 * [101](https://github.com/tjmehta/101) ⭐ 1,539 | 🐛 21 | 🌐 JavaScript | 📅 2022-01-06 – A modern and modular JavaScript utility library made to work well with vanilla JavaScript methods.  -TS
 * [true-myth](https://github.com/true-myth/true-myth) ⭐ 1,365 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-10 A library for safe, idiomatic null and error handling in TypeScript, with `Maybe` and `Result` types, supporting both a functional style and a more traditional method-call style
@@ -56,7 +56,7 @@ These may be appended to entries.  Each should be preceded by a "+" or "-" to in
 * [Rambdax](https://github.com/selfrefactor/rambdax) ⭐ 223 | 🐛 0 | 🌐 JavaScript | 📅 2025-06-26 - Extended version of Rambda
 * [iter-tools](https://github.com/iter-tools/iter-tools) ⭐ 189 | 🐛 16 | 🌐 JavaScript | 📅 2025-06-02 - a rich toolset for working with iterables, both sync and async. +TS.
 * [Ramda-extension](https://github.com/tommmyy/ramda-extension) ⭐ 167 | 🐛 33 | 🌐 HTML | 📅 2025-04-01 is set of utility point-free functions composed only from Ramda functions.
-* [TGrid](https://github.com/samchon/tgrid) ⭐ 167 | 🐛 4 | 🌐 TypeScript | 📅 2025-12-18 - Grid Computing Framework, Network & Thread extension of [TSTL](https://github.com/samchon/tstl) ⭐ 630 | 🐛 3 | 🌐 TypeScript | 📅 2026-05-22, supporting RFC (Remote Function Call). +TS.
+* [TGrid](https://github.com/samchon/tgrid) ⭐ 167 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-19 - Grid Computing Framework, Network & Thread extension of [TSTL](https://github.com/samchon/tstl) ⭐ 630 | 🐛 3 | 🌐 TypeScript | 📅 2026-05-22, supporting RFC (Remote Function Call). +TS.
 * [Javascript Parser Combinator](https://github.com/d-plaindoux/parsec) ⭐ 151 | 🐛 13 | 🌐 JavaScript | 📅 2026-03-01 – Javascript parser combinator implementation inspired by the Haskell's Parsec
 * [lambdajs](https://github.com/loop-recur/lambdajs) ⭐ 142 | 🐛 7 | 🌐 JavaScript | 📅 2014-07-09 – The full ECMAScript API done a functional way.
 * [omg-curry](https://github.com/Debdut/omg-curry) ⭐ 134 | 🐛 1 | 🌐 JavaScript | 📅 2020-12-30 - Comprehensive Curry Library with Operator Curry, Curry from functions, Decurry and Infifnite Curries.
@@ -146,7 +146,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 * [partial.lenses](https://github.com/calmm-js/partial.lenses) ⭐ 924 | 🐛 23 | 🌐 JavaScript | 📅 2021-11-18 – Partial lenses is a comprehensive, high-performance optics library for JavaScript.
 * [shades](https://github.com/jamesmcnamara/shades) ⭐ 418 | 🐛 3 | 🌐 JavaScript | 📅 2024-06-13 – A lodash-inspired lens-like library for Javascript.
-* [lenses](https://github.com/DrBoolean/lenses) ⭐ 216 | 🐛 3 | 🌐 JavaScript | 📅 2015-09-28 – Composable [kmett](https://github.com/ekmett/lens) ⭐ 2,107 | 🐛 93 | 🌐 Haskell | 📅 2026-08-13 style lenses.
+* [lenses](https://github.com/DrBoolean/lenses) ⭐ 216 | 🐛 3 | 🌐 JavaScript | 📅 2015-09-28 – Composable [kmett](https://github.com/ekmett/lens) ⭐ 2,107 | 🐛 93 | 🌐 Haskell | 📅 2026-09-19 style lenses.
 * [ramda-lens](https://github.com/ramda/ramda-lens) ⭐ 184 | 🐛 4 | 🌐 JavaScript | 📅 2017-06-13 – :ram: :mag\_right: Lens library built on Ramda.
 * [nanoscope](https://github.com/5outh/nanoscope) ⭐ 178 | 🐛 5 | 🌐 CSS | 📅 2016-12-09 – Lenses with dotty support.
 * [fantasy-lenses](https://github.com/fantasyland/fantasy-lenses) ⚠️ Archived – Composable, immutable getters and setters. (Profunctor lenses WIP)
@@ -196,7 +196,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 ### Articles
 
-* [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) ⭐ 18,697 | 🐛 27 | 🌐 JavaScript | 📅 2026-09-14 – Jargon from the functional programming world explained in JavaScript.
+* [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) ⭐ 18,702 | 🐛 27 | 🌐 JavaScript | 📅 2026-09-14 – Jargon from the functional programming world explained in JavaScript.
 * [You don't (may not) need loops ➿](https://github.com/you-dont-need/You-Dont-Need-Loops) ⭐ 1,175 | 🐛 5 | 📅 2024-10-15 - Loops are one of the first constructs that junior programmers learn, but they can pose many potential issues in the software development process, and could be avoided in many cases.
 * [FP Concepts in JavaScript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c) – An introduction to Functional Programming Concepts in JavaScript. Uses the Ramda library to teach the concepts of composition, pointfree style, and functors through the simplest of examples.
 * [Functional programming with JavaScript](http://stephen-young.me.uk/2013/01/20/functional-programming-with-javascript.html) – Another introduction to Functional Programming in JavaScript with a focus on three key themes: computation as the application of functions, statelessness, avoiding side effects.
@@ -276,4 +276,4 @@ To the extent possible under law, [Christoph Hermann](http://stoeffel.github.io/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
