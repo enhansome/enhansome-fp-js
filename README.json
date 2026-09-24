@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-11T18:02:54Z",
-            "open_issues": 106,
+            "open_issues": 105,
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61274,
+            "stars": 61275,
             "topics": [
               "javascript",
               "lodash",
@@ -42,10 +42,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-15T05:39:42Z",
-            "open_issues": 144,
+            "open_issues": 146,
             "owner": "ramda",
             "repo": "ramda",
-            "stars": 24050,
+            "stars": 24049,
             "topics": [
               "javascript",
               "ramda"
@@ -65,11 +65,11 @@
             "id": 221458136,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-23T23:49:22Z",
-            "open_issues": 295,
+            "last_commit": "2026-09-24T23:48:47Z",
+            "open_issues": 291,
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 16193,
+            "stars": 16212,
             "topics": [
               "cli",
               "clustering",
@@ -333,8 +333,8 @@
             "id": 81263716,
             "language": "JavaScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-23T00:05:36Z",
-            "open_issues": 73,
+            "last_commit": "2026-09-24T23:55:00Z",
+            "open_issues": 75,
             "owner": "char0n",
             "repo": "ramda-adjunct",
             "stars": 687,
@@ -1636,7 +1636,7 @@
                 "open_issues": 59,
                 "owner": "dtao",
                 "repo": "lazy.js",
-                "stars": 5965,
+                "stars": 5966,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
@@ -2792,7 +2792,7 @@
                 "open_issues": 92,
                 "owner": "MostlyAdequate",
                 "repo": "mostly-adequate-guide",
-                "stars": 23822,
+                "stars": 23821,
                 "topics": [
                   "functional-programming",
                   "javascript",
@@ -2889,7 +2889,7 @@
                 "open_issues": 27,
                 "owner": "hemanth",
                 "repo": "functional-programming-jargon",
-                "stars": 18718,
+                "stars": 18720,
                 "topics": [
                   "awesome-list",
                   "education",
@@ -3228,7 +3228,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T23:49:35.590Z",
+    "last_updated": "2026-09-24T23:56:16.772Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome functional programming stuff in js",
