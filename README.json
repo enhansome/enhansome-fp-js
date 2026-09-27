@@ -19,7 +19,7 @@
             "open_issues": 105,
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61280,
+            "stars": 61278,
             "topics": [
               "javascript",
               "lodash",
@@ -65,11 +65,11 @@
             "id": 221458136,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-26T14:02:05Z",
-            "open_issues": 294,
+            "last_commit": "2026-09-27T23:33:00Z",
+            "open_issues": 287,
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 16228,
+            "stars": 16240,
             "topics": [
               "cli",
               "clustering",
@@ -1609,7 +1609,7 @@
                 "open_issues": 53,
                 "owner": "immerjs",
                 "repo": "immer",
-                "stars": 28982,
+                "stars": 28983,
                 "topics": [
                   "immutable",
                   "immutables",
@@ -2889,7 +2889,7 @@
                 "open_issues": 27,
                 "owner": "hemanth",
                 "repo": "functional-programming-jargon",
-                "stars": 18722,
+                "stars": 18724,
                 "topics": [
                   "awesome-list",
                   "education",
@@ -3228,7 +3228,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T23:43:43.323Z",
+    "last_updated": "2026-09-27T23:52:17.116Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome functional programming stuff in js",
