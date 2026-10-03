@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-01T23:04:09Z",
-            "open_issues": 117,
+            "open_issues": 119,
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61260,
+            "stars": 61259,
             "topics": [
               "javascript",
               "lodash",
@@ -41,8 +41,8 @@
             "id": 10851820,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T06:06:57Z",
-            "open_issues": 155,
+            "last_commit": "2026-10-03T06:18:15Z",
+            "open_issues": 153,
             "owner": "ramda",
             "repo": "ramda",
             "stars": 24047,
@@ -65,11 +65,11 @@
             "id": 221458136,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T03:12:03Z",
-            "open_issues": 300,
+            "last_commit": "2026-10-03T21:58:05Z",
+            "open_issues": 313,
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 16598,
+            "stars": 16808,
             "topics": [
               "cli",
               "clustering",
@@ -104,7 +104,7 @@
             "open_issues": 77,
             "owner": "gvergnaud",
             "repo": "ts-pattern",
-            "stars": 15175,
+            "stars": 15176,
             "topics": [
               "branching",
               "conditions",
@@ -185,7 +185,7 @@
             "id": 44402648,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T18:04:10Z",
+            "last_commit": "2026-10-03T19:11:36Z",
             "open_issues": 12,
             "owner": "js-joda",
             "repo": "js-joda",
@@ -238,7 +238,7 @@
             "open_issues": 17,
             "owner": "true-myth",
             "repo": "true-myth",
-            "stars": 1366,
+            "stars": 1367,
             "topics": [
               "applicatives",
               "functional-programming",
@@ -551,7 +551,7 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-07-31T16:42:58Z",
-            "open_issues": 52,
+            "open_issues": 53,
             "owner": "a-synchronous",
             "repo": "rubico",
             "stars": 283,
@@ -993,7 +993,7 @@
             "open_issues": 0,
             "owner": "Oaxoa",
             "repo": "fp-filters",
-            "stars": 93,
+            "stars": 94,
             "topics": [
               "array-filters",
               "filter",
@@ -1209,7 +1209,7 @@
             "id": 135992999,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T08:11:07Z",
+            "last_commit": "2026-10-03T11:44:01Z",
             "open_issues": 10,
             "owner": "TeaEntityLab",
             "repo": "fpEs",
@@ -1609,7 +1609,7 @@
                 "open_issues": 41,
                 "owner": "immerjs",
                 "repo": "immer",
-                "stars": 28984,
+                "stars": 28983,
                 "topics": [
                   "immutable",
                   "immutables",
@@ -1699,7 +1699,7 @@
                 "open_issues": 22,
                 "owner": "funkia",
                 "repo": "list",
-                "stars": 1649,
+                "stars": 1648,
                 "topics": [
                   "data-structures",
                   "fantasy-land",
@@ -2008,7 +2008,7 @@
                 "open_issues": 12,
                 "owner": "fluture-js",
                 "repo": "Fluture",
-                "stars": 2493,
+                "stars": 2492,
                 "topics": [
                   "algebraic-data-types",
                   "async",
@@ -2541,11 +2541,11 @@
             "id": 2080922,
             "language": "Clojure",
             "license": "EPL-1.0",
-            "last_commit": "2026-10-01T04:20:35Z",
+            "last_commit": "2026-10-03T19:56:39Z",
             "open_issues": 8,
             "owner": "clojure",
             "repo": "clojurescript",
-            "stars": 9391,
+            "stars": 9392,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
@@ -2792,7 +2792,7 @@
                 "open_issues": 92,
                 "owner": "MostlyAdequate",
                 "repo": "mostly-adequate-guide",
-                "stars": 23819,
+                "stars": 23818,
                 "topics": [
                   "functional-programming",
                   "javascript",
@@ -2818,7 +2818,7 @@
                 "open_issues": 27,
                 "owner": "getify",
                 "repo": "Functional-Light-JS",
-                "stars": 16728,
+                "stars": 16729,
                 "topics": [
                   "book",
                   "education",
@@ -2889,7 +2889,7 @@
                 "open_issues": 27,
                 "owner": "hemanth",
                 "repo": "functional-programming-jargon",
-                "stars": 18728,
+                "stars": 18726,
                 "topics": [
                   "awesome-list",
                   "education",
@@ -3145,7 +3145,7 @@
                 "open_issues": 1,
                 "owner": "imteekay",
                 "repo": "functional-programming-learning-path",
-                "stars": 1043,
+                "stars": 1044,
                 "topics": [
                   "clojure",
                   "functional-languages",
@@ -3228,7 +3228,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:43:44.717Z",
+    "last_updated": "2026-10-03T23:57:29.963Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome functional programming stuff in js",
