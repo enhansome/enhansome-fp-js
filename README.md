@@ -31,7 +31,7 @@ These may be appended to entries.  Each should be preceded by a "+" or "-" to in
 
 * [lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide) ⭐ 61,260 | 🐛 117 | 🌐 JavaScript | 📅 2026-10-01 – An instance of [Lodash](https://github.com/lodash/lodash) ⭐ 61,260 | 🐛 117 | 🌐 JavaScript | 📅 2026-10-01 with its methods wrapped to produce immutable, auto-curried, iteratee-first, data-last methods. +TS.
 * [Ramda](https://github.com/ramda/ramda) ⭐ 24,047 | 🐛 155 | 🌐 JavaScript | 📅 2026-09-28 – A practical functional library for JavaScript that is designed specifically for a functional programming style. A style that makes it easy to create functional pipelines and never mutates user data. +TS.
-* [effect-ts](https://github.com/Effect-TS/core) ⭐ 16,546 | 🐛 302 | 🌐 TypeScript | 📅 2026-10-02 – A Fully-fledged functional effect system for typescript with a rich standard library. +TS
+* [effect-ts](https://github.com/Effect-TS/core) ⭐ 16,598 | 🐛 300 | 🌐 TypeScript | 📅 2026-10-03 – A Fully-fledged functional effect system for typescript with a rich standard library. +TS
 * [ts-pattern](https://github.com/gvergnaud/ts-pattern) ⭐ 15,175 | 🐛 77 | 🌐 TypeScript | 📅 2026-09-11 - The exhaustive Pattern Matching library for TypeScript, with smart type inference. Pattern Matching is a code-branching technique coming from FP languages.
 * [most](https://github.com/cujojs/most) ⭐ 3,484 | 🐛 50 | 🌐 JavaScript | 📅 2022-12-06 – Ultra-high performance reactive programming to help you compose asynchronous operations on streams of values and events without many of the hazards of side effects and mutable shared state.
 * [Rambda](https://github.com/selfrefactor/rambda) ⭐ 1,757 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-22 - A faster alternative to Ramda in under 10kB.
@@ -104,7 +104,7 @@ These may be appended to entries.  Each should be preceded by a "+" or "-" to in
 Write performant functional code by using the right data structures for the task.
 
 * [Immutable.js](https://github.com/facebook/immutable-js) ⭐ 33,030 | 🐛 145 | 🌐 TypeScript | 📅 2026-10-01 – Immutable persistent data collections.
-* [Immer](https://github.com/mweststrate/immer) ⭐ 28,984 | 🐛 40 | 🌐 JavaScript | 📅 2026-10-02 – Immer is a tiny package for immutable state based on copy-on-write mechanism. +TS.
+* [Immer](https://github.com/mweststrate/immer) ⭐ 28,984 | 🐛 41 | 🌐 JavaScript | 📅 2026-10-02 – Immer is a tiny package for immutable state based on copy-on-write mechanism. +TS.
 * [Lazy.js](https://github.com/dtao/lazy.js) ⭐ 5,964 | 🐛 59 | 🌐 JavaScript | 📅 2020-07-15 – A utility library with a lazy engine under the hood that strives to do as little work as possible while being as flexible as possible.
 * [Mori](https://github.com/swannodette/mori) ⭐ 3,370 | 🐛 64 | 🌐 Clojure | 📅 2026-03-06 – ClojureScript’s persistent data structures and supporting API from the comfort of vanilla JavaScript.
 * [Baobab](https://github.com/Yomguithereal/baobab) ⭐ 3,153 | 🐛 49 | 🌐 JavaScript | 📅 2022-05-10 – persistent and optionally immutable data tree with cursors.
@@ -146,7 +146,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 * [partial.lenses](https://github.com/calmm-js/partial.lenses) ⭐ 925 | 🐛 23 | 🌐 JavaScript | 📅 2021-11-18 – Partial lenses is a comprehensive, high-performance optics library for JavaScript.
 * [shades](https://github.com/jamesmcnamara/shades) ⭐ 418 | 🐛 3 | 🌐 JavaScript | 📅 2024-06-13 – A lodash-inspired lens-like library for Javascript.
-* [lenses](https://github.com/DrBoolean/lenses) ⭐ 216 | 🐛 3 | 🌐 JavaScript | 📅 2015-09-28 – Composable [kmett](https://github.com/ekmett/lens) ⭐ 2,107 | 🐛 89 | 🌐 Haskell | 📅 2026-09-28 style lenses.
+* [lenses](https://github.com/DrBoolean/lenses) ⭐ 216 | 🐛 3 | 🌐 JavaScript | 📅 2015-09-28 – Composable [kmett](https://github.com/ekmett/lens) ⭐ 2,108 | 🐛 89 | 🌐 Haskell | 📅 2026-09-28 style lenses.
 * [ramda-lens](https://github.com/ramda/ramda-lens) ⭐ 184 | 🐛 4 | 🌐 JavaScript | 📅 2017-06-13 – :ram: :mag\_right: Lens library built on Ramda.
 * [nanoscope](https://github.com/5outh/nanoscope) ⭐ 178 | 🐛 5 | 🌐 CSS | 📅 2016-12-09 – Lenses with dotty support.
 * [fantasy-lenses](https://github.com/fantasyland/fantasy-lenses) ⚠️ Archived – Composable, immutable getters and setters. (Profunctor lenses WIP)
