@@ -19,7 +19,7 @@
             "open_issues": 121,
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61322,
+            "stars": 61343,
             "topics": [
               "javascript",
               "lodash",
@@ -42,10 +42,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-04T17:24:21Z",
-            "open_issues": 150,
+            "open_issues": 152,
             "owner": "ramda",
             "repo": "ramda",
-            "stars": 24047,
+            "stars": 24046,
             "topics": [
               "javascript",
               "ramda"
@@ -65,11 +65,11 @@
             "id": 221458136,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T10:17:39Z",
-            "open_issues": 306,
+            "last_commit": "2026-10-07T00:31:36Z",
+            "open_issues": 254,
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 17071,
+            "stars": 17119,
             "topics": [
               "cli",
               "clustering",
@@ -104,7 +104,7 @@
             "open_issues": 78,
             "owner": "gvergnaud",
             "repo": "ts-pattern",
-            "stars": 15180,
+            "stars": 15181,
             "topics": [
               "branching",
               "conditions",
@@ -158,7 +158,7 @@
             "open_issues": 0,
             "owner": "selfrefactor",
             "repo": "rambda",
-            "stars": 1756,
+            "stars": 1757,
             "topics": [
               "fp",
               "functional",
@@ -189,7 +189,7 @@
             "open_issues": 13,
             "owner": "js-joda",
             "repo": "js-joda",
-            "stars": 1662,
+            "stars": 1663,
             "topics": [
               "date",
               "immutable",
@@ -238,7 +238,7 @@
             "open_issues": 18,
             "owner": "true-myth",
             "repo": "true-myth",
-            "stars": 1366,
+            "stars": 1367,
             "topics": [
               "applicatives",
               "functional-programming",
@@ -268,7 +268,7 @@
             "open_issues": 8,
             "owner": "marpple",
             "repo": "FxTS",
-            "stars": 1167,
+            "stars": 1168,
             "topics": [
               "concurrency",
               "fp",
@@ -295,7 +295,7 @@
             "open_issues": 33,
             "owner": "smartprocure",
             "repo": "futil-js",
-            "stars": 1043,
+            "stars": 1044,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
@@ -550,7 +550,7 @@
             "id": 219276883,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T02:30:51Z",
+            "last_commit": "2026-10-06T21:49:21Z",
             "open_issues": 53,
             "owner": "a-synchronous",
             "repo": "rubico",
@@ -657,33 +657,6 @@
         },
         {
           "node_type": "item",
-          "title": "Rambdax",
-          "description": "Extended version of Rambda",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Extended version of Rambda ",
-            "homepage": "https://selfrefactor.github.io/rambdax",
-            "id": 87567927,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2025-06-26T08:14:12Z",
-            "open_issues": 0,
-            "owner": "selfrefactor",
-            "repo": "rambdax",
-            "stars": 223,
-            "topics": [
-              "functional-programming",
-              "lodash",
-              "rambda",
-              "ramda",
-              "utils"
-            ]
-          },
-          "first_seen": "2026-08-28T05:31:26.568Z"
-        },
-        {
-          "node_type": "item",
           "title": "functional.js",
           "description": "A lightweight functional JavaScript library that facilitates currying and point-free / tacit programming.",
           "children": [],
@@ -698,7 +671,7 @@
             "open_issues": 0,
             "owner": "functionaljs",
             "repo": "functional-js",
-            "stars": 223,
+            "stars": 224,
             "topics": [
               "ai-friendly",
               "composition",
@@ -720,6 +693,33 @@
               "tree-shaking",
               "typescript",
               "zero-dependencies"
+            ]
+          },
+          "first_seen": "2026-08-28T05:31:26.568Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Rambdax",
+          "description": "Extended version of Rambda",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Extended version of Rambda ",
+            "homepage": "https://selfrefactor.github.io/rambdax",
+            "id": 87567927,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2025-06-26T08:14:12Z",
+            "open_issues": 0,
+            "owner": "selfrefactor",
+            "repo": "rambdax",
+            "stars": 223,
+            "topics": [
+              "functional-programming",
+              "lodash",
+              "rambda",
+              "ramda",
+              "utils"
             ]
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
@@ -827,7 +827,7 @@
             "open_issues": 13,
             "owner": "masala",
             "repo": "masala-parser",
-            "stars": 151,
+            "stars": 150,
             "topics": [
               "functional-programming",
               "generalization",
@@ -938,7 +938,7 @@
             "open_issues": 1,
             "owner": "mnasyrov",
             "repo": "ditox",
-            "stars": 102,
+            "stars": 103,
             "topics": [
               "container",
               "dependency",
@@ -970,7 +970,7 @@
             "open_issues": 4,
             "owner": "alanrsoares",
             "repo": "prelude-js",
-            "stars": 101,
+            "stars": 102,
             "topics": [
               "functional-programming"
             ]
@@ -1606,10 +1606,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T18:23:35Z",
-                "open_issues": 42,
+                "open_issues": 45,
                 "owner": "immerjs",
                 "repo": "immer",
-                "stars": 28982,
+                "stars": 28983,
                 "topics": [
                   "immutable",
                   "immutables",
@@ -1728,7 +1728,7 @@
                 "open_issues": 3,
                 "owner": "samchon",
                 "repo": "tstl",
-                "stars": 628,
+                "stars": 629,
                 "topics": [
                   "algorithm",
                   "collection",
@@ -1934,7 +1934,7 @@
                 "open_issues": 37,
                 "owner": "fantasyland",
                 "repo": "fantasy-land",
-                "stars": 10240,
+                "stars": 10241,
                 "topics": [
                   "fantasy-land",
                   "functional",
@@ -1960,7 +1960,7 @@
                 "open_issues": 83,
                 "owner": "supermacro",
                 "repo": "neverthrow",
-                "stars": 7735,
+                "stars": 7738,
                 "topics": [
                   "functional-programming",
                   "typescript"
@@ -2161,7 +2161,7 @@
                 "open_issues": 0,
                 "owner": "rametta",
                 "repo": "pratica",
-                "stars": 490,
+                "stars": 491,
                 "topics": [
                   "fp",
                   "functional-programming",
@@ -2231,7 +2231,7 @@
                 "open_issues": 13,
                 "owner": "JSMonk",
                 "repo": "sweet-monads",
-                "stars": 353,
+                "stars": 354,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
@@ -2818,7 +2818,7 @@
                 "open_issues": 27,
                 "owner": "getify",
                 "repo": "Functional-Light-JS",
-                "stars": 16731,
+                "stars": 16730,
                 "topics": [
                   "book",
                   "education",
@@ -2889,7 +2889,7 @@
                 "open_issues": 28,
                 "owner": "hemanth",
                 "repo": "functional-programming-jargon",
-                "stars": 18727,
+                "stars": 18729,
                 "topics": [
                   "awesome-list",
                   "education",
@@ -3228,7 +3228,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:25:08.586Z",
+    "last_updated": "2026-10-07T00:52:47.330Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome functional programming stuff in js",
