@@ -19,7 +19,7 @@
             "open_issues": 121,
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61343,
+            "stars": 61347,
             "topics": [
               "javascript",
               "lodash",
@@ -65,11 +65,11 @@
             "id": 221458136,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-07T00:31:36Z",
-            "open_issues": 254,
+            "last_commit": "2026-10-08T01:07:53Z",
+            "open_issues": 253,
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 17119,
+            "stars": 17147,
             "topics": [
               "cli",
               "clustering",
@@ -101,10 +101,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-11T10:00:06Z",
-            "open_issues": 78,
+            "open_issues": 79,
             "owner": "gvergnaud",
             "repo": "ts-pattern",
-            "stars": 15181,
+            "stars": 15183,
             "topics": [
               "branching",
               "conditions",
@@ -185,8 +185,8 @@
             "id": 44402648,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-04T19:58:26Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-07T20:33:45Z",
+            "open_issues": 10,
             "owner": "js-joda",
             "repo": "js-joda",
             "stars": 1663,
@@ -1606,7 +1606,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T18:23:35Z",
-                "open_issues": 45,
+                "open_issues": 46,
                 "owner": "immerjs",
                 "repo": "immer",
                 "stars": 28983,
@@ -1699,7 +1699,7 @@
                 "open_issues": 22,
                 "owner": "funkia",
                 "repo": "list",
-                "stars": 1648,
+                "stars": 1649,
                 "topics": [
                   "data-structures",
                   "fantasy-land",
@@ -1934,7 +1934,7 @@
                 "open_issues": 37,
                 "owner": "fantasyland",
                 "repo": "fantasy-land",
-                "stars": 10241,
+                "stars": 10242,
                 "topics": [
                   "fantasy-land",
                   "functional",
@@ -1960,7 +1960,7 @@
                 "open_issues": 83,
                 "owner": "supermacro",
                 "repo": "neverthrow",
-                "stars": 7738,
+                "stars": 7739,
                 "topics": [
                   "functional-programming",
                   "typescript"
@@ -2542,10 +2542,10 @@
             "language": "Clojure",
             "license": "EPL-1.0",
             "last_commit": "2026-10-05T19:18:36Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "clojure",
             "repo": "clojurescript",
-            "stars": 9392,
+            "stars": 9391,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
@@ -2792,7 +2792,7 @@
                 "open_issues": 92,
                 "owner": "MostlyAdequate",
                 "repo": "mostly-adequate-guide",
-                "stars": 23818,
+                "stars": 23816,
                 "topics": [
                   "functional-programming",
                   "javascript",
@@ -2818,7 +2818,7 @@
                 "open_issues": 27,
                 "owner": "getify",
                 "repo": "Functional-Light-JS",
-                "stars": 16730,
+                "stars": 16729,
                 "topics": [
                   "book",
                   "education",
@@ -2889,7 +2889,7 @@
                 "open_issues": 28,
                 "owner": "hemanth",
                 "repo": "functional-programming-jargon",
-                "stars": 18729,
+                "stars": 18734,
                 "topics": [
                   "awesome-list",
                   "education",
@@ -3025,7 +3025,7 @@
                 "open_issues": 12,
                 "owner": "justsml",
                 "repo": "escape-from-callback-mountain",
-                "stars": 255,
+                "stars": 254,
                 "topics": [
                   "callback",
                   "callback-mountain",
@@ -3228,7 +3228,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T00:52:47.330Z",
+    "last_updated": "2026-10-08T01:09:00.891Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome functional programming stuff in js",
