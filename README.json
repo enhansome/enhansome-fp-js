@@ -19,7 +19,7 @@
             "open_issues": 121,
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61292,
+            "stars": 61290,
             "topics": [
               "javascript",
               "lodash",
@@ -45,7 +45,7 @@
             "open_issues": 159,
             "owner": "ramda",
             "repo": "ramda",
-            "stars": 24045,
+            "stars": 24046,
             "topics": [
               "javascript",
               "ramda"
@@ -65,11 +65,11 @@
             "id": 221458136,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T23:59:22Z",
-            "open_issues": 227,
+            "last_commit": "2026-10-15T23:43:53Z",
+            "open_issues": 225,
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 17285,
+            "stars": 17297,
             "topics": [
               "cli",
               "clustering",
@@ -101,7 +101,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-14T08:48:03Z",
-            "open_issues": 83,
+            "open_issues": 84,
             "owner": "gvergnaud",
             "repo": "ts-pattern",
             "stars": 15183,
@@ -1588,7 +1588,7 @@
                 "open_issues": 146,
                 "owner": "immutable-js",
                 "repo": "immutable-js",
-                "stars": 33025,
+                "stars": 33026,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
@@ -1606,10 +1606,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-14T02:43:37Z",
-                "open_issues": 56,
+                "open_issues": 57,
                 "owner": "immerjs",
                 "repo": "immer",
-                "stars": 28986,
+                "stars": 28987,
                 "topics": [
                   "immutable",
                   "immutables",
@@ -1960,7 +1960,7 @@
                 "open_issues": 83,
                 "owner": "supermacro",
                 "repo": "neverthrow",
-                "stars": 7744,
+                "stars": 7745,
                 "topics": [
                   "functional-programming",
                   "typescript"
@@ -2541,11 +2541,11 @@
             "id": 2080922,
             "language": "Clojure",
             "license": "EPL-1.0",
-            "last_commit": "2026-10-13T16:28:02Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-15T15:41:32Z",
+            "open_issues": 7,
             "owner": "clojure",
             "repo": "clojurescript",
-            "stars": 9391,
+            "stars": 9390,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
@@ -2566,7 +2566,7 @@
             "open_issues": 292,
             "owner": "ghcjs",
             "repo": "ghcjs",
-            "stars": 2618,
+            "stars": 2617,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
@@ -2818,7 +2818,7 @@
                 "open_issues": 27,
                 "owner": "getify",
                 "repo": "Functional-Light-JS",
-                "stars": 16728,
+                "stars": 16726,
                 "topics": [
                   "book",
                   "education",
@@ -2889,7 +2889,7 @@
                 "open_issues": 28,
                 "owner": "hemanth",
                 "repo": "functional-programming-jargon",
-                "stars": 18739,
+                "stars": 18738,
                 "topics": [
                   "awesome-list",
                   "education",
@@ -3228,7 +3228,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T23:59:45.637Z",
+    "last_updated": "2026-10-15T23:44:08.450Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome functional programming stuff in js",
