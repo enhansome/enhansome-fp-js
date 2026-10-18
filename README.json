@@ -19,7 +19,7 @@
             "open_issues": 122,
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61285,
+            "stars": 61287,
             "topics": [
               "javascript",
               "lodash",
@@ -42,10 +42,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-12T00:34:57Z",
-            "open_issues": 160,
+            "open_issues": 162,
             "owner": "ramda",
             "repo": "ramda",
-            "stars": 24046,
+            "stars": 24047,
             "topics": [
               "javascript",
               "ramda"
@@ -65,11 +65,11 @@
             "id": 221458136,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T23:14:02Z",
-            "open_issues": 283,
+            "last_commit": "2026-10-18T23:25:47Z",
+            "open_issues": 254,
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 17315,
+            "stars": 17322,
             "topics": [
               "cli",
               "clustering",
@@ -104,7 +104,7 @@
             "open_issues": 84,
             "owner": "gvergnaud",
             "repo": "ts-pattern",
-            "stars": 15184,
+            "stars": 15188,
             "topics": [
               "branching",
               "conditions",
@@ -189,7 +189,7 @@
             "open_issues": 5,
             "owner": "js-joda",
             "repo": "js-joda",
-            "stars": 1663,
+            "stars": 1662,
             "topics": [
               "date",
               "immutable",
@@ -371,7 +371,7 @@
             "open_issues": 0,
             "owner": "funfix",
             "repo": "funfix.js",
-            "stars": 627,
+            "stars": 626,
             "topics": [
               "async",
               "concurrency",
@@ -403,7 +403,7 @@
             "open_issues": 53,
             "owner": "adobe",
             "repo": "ferrum",
-            "stars": 529,
+            "stars": 528,
             "topics": [
               "ferrum",
               "functional",
@@ -934,7 +934,7 @@
             "id": 307775119,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-07-26T23:12:44Z",
+            "last_commit": "2026-10-18T23:10:30Z",
             "open_issues": 1,
             "owner": "mnasyrov",
             "repo": "ditox",
@@ -1373,8 +1373,8 @@
             "id": 271886787,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T11:10:07Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-18T11:56:42Z",
+            "open_issues": 1,
             "owner": "darky",
             "repo": "rocket-pipes",
             "stars": 26,
@@ -1584,11 +1584,11 @@
                 "id": 21413198,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-17T09:46:44Z",
-                "open_issues": 147,
+                "last_commit": "2026-10-18T13:07:42Z",
+                "open_issues": 150,
                 "owner": "immutable-js",
                 "repo": "immutable-js",
-                "stars": 33026,
+                "stars": 33025,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
@@ -1606,7 +1606,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-17T09:20:44Z",
-                "open_issues": 62,
+                "open_issues": 63,
                 "owner": "immerjs",
                 "repo": "immer",
                 "stars": 28987,
@@ -2792,7 +2792,7 @@
                 "open_issues": 92,
                 "owner": "MostlyAdequate",
                 "repo": "mostly-adequate-guide",
-                "stars": 23813,
+                "stars": 23814,
                 "topics": [
                   "functional-programming",
                   "javascript",
@@ -2889,7 +2889,7 @@
                 "open_issues": 28,
                 "owner": "hemanth",
                 "repo": "functional-programming-jargon",
-                "stars": 18741,
+                "stars": 18742,
                 "topics": [
                   "awesome-list",
                   "education",
@@ -3228,7 +3228,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T23:16:25.568Z",
+    "last_updated": "2026-10-18T23:26:14.289Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome functional programming stuff in js",
