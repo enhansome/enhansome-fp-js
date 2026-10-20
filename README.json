@@ -42,10 +42,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-12T00:34:57Z",
-            "open_issues": 163,
+            "open_issues": 164,
             "owner": "ramda",
             "repo": "ramda",
-            "stars": 24048,
+            "stars": 24049,
             "topics": [
               "javascript",
               "ramda"
@@ -65,11 +65,11 @@
             "id": 221458136,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T00:28:45Z",
-            "open_issues": 226,
+            "last_commit": "2026-10-20T23:55:06Z",
+            "open_issues": 229,
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 17334,
+            "stars": 17340,
             "topics": [
               "cli",
               "clustering",
@@ -104,7 +104,7 @@
             "open_issues": 84,
             "owner": "gvergnaud",
             "repo": "ts-pattern",
-            "stars": 15191,
+            "stars": 15193,
             "topics": [
               "branching",
               "conditions",
@@ -185,8 +185,8 @@
             "id": 44402648,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-11T16:23:06Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-20T18:03:14Z",
+            "open_issues": 6,
             "owner": "js-joda",
             "repo": "js-joda",
             "stars": 1662,
@@ -217,7 +217,7 @@
             "open_issues": 21,
             "owner": "tjmehta",
             "repo": "101",
-            "stars": 1538,
+            "stars": 1537,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
@@ -268,7 +268,7 @@
             "open_issues": 8,
             "owner": "marpple",
             "repo": "FxTS",
-            "stars": 1169,
+            "stars": 1168,
             "topics": [
               "concurrency",
               "fp",
@@ -1373,8 +1373,8 @@
             "id": 271886787,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-18T11:56:42Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-20T15:28:12Z",
+            "open_issues": 0,
             "owner": "darky",
             "repo": "rocket-pipes",
             "stars": 26,
@@ -1605,11 +1605,11 @@
                 "id": 115720575,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-17T09:20:44Z",
-                "open_issues": 64,
+                "last_commit": "2026-10-20T18:49:46Z",
+                "open_issues": 50,
                 "owner": "immerjs",
                 "repo": "immer",
-                "stars": 28987,
+                "stars": 28988,
                 "topics": [
                   "immutable",
                   "immutables",
@@ -1960,7 +1960,7 @@
                 "open_issues": 83,
                 "owner": "supermacro",
                 "repo": "neverthrow",
-                "stars": 7747,
+                "stars": 7749,
                 "topics": [
                   "functional-programming",
                   "typescript"
@@ -2041,7 +2041,7 @@
                 "open_issues": 3,
                 "owner": "gigobyte",
                 "repo": "purify",
-                "stars": 1608,
+                "stars": 1607,
                 "topics": [
                   "algebraic-data-types",
                   "codec",
@@ -2955,7 +2955,7 @@
                 "open_issues": 10,
                 "owner": "sharkdp",
                 "repo": "cube-composer",
-                "stars": 2047,
+                "stars": 2048,
                 "topics": [
                   "browser-game",
                   "functional-programming",
@@ -3228,7 +3228,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T00:29:10.190Z",
+    "last_updated": "2026-10-20T23:59:33.596Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome functional programming stuff in js",
