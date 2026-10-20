@@ -42,10 +42,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-12T00:34:57Z",
-            "open_issues": 162,
+            "open_issues": 163,
             "owner": "ramda",
             "repo": "ramda",
-            "stars": 24047,
+            "stars": 24048,
             "topics": [
               "javascript",
               "ramda"
@@ -65,11 +65,11 @@
             "id": 221458136,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-18T23:25:47Z",
-            "open_issues": 254,
+            "last_commit": "2026-10-20T00:28:45Z",
+            "open_issues": 226,
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 17322,
+            "stars": 17334,
             "topics": [
               "cli",
               "clustering",
@@ -104,7 +104,7 @@
             "open_issues": 84,
             "owner": "gvergnaud",
             "repo": "ts-pattern",
-            "stars": 15188,
+            "stars": 15191,
             "topics": [
               "branching",
               "conditions",
@@ -238,7 +238,7 @@
             "open_issues": 18,
             "owner": "true-myth",
             "repo": "true-myth",
-            "stars": 1368,
+            "stars": 1369,
             "topics": [
               "applicatives",
               "functional-programming",
@@ -333,8 +333,8 @@
             "id": 81263716,
             "language": "JavaScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-15T23:52:45Z",
-            "open_issues": 75,
+            "last_commit": "2026-10-19T23:54:11Z",
+            "open_issues": 76,
             "owner": "char0n",
             "repo": "ramda-adjunct",
             "stars": 687,
@@ -1272,8 +1272,8 @@
             "id": 882700065,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2025-03-30T05:34:43Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-19T13:53:48Z",
+            "open_issues": 6,
             "owner": "Snowflyt",
             "repo": "tinyeffect",
             "stars": 38,
@@ -1606,7 +1606,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-17T09:20:44Z",
-                "open_issues": 63,
+                "open_issues": 64,
                 "owner": "immerjs",
                 "repo": "immer",
                 "stars": 28987,
@@ -1657,7 +1657,7 @@
                 "open_issues": 64,
                 "owner": "swannodette",
                 "repo": "mori",
-                "stars": 3370,
+                "stars": 3371,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
@@ -1960,7 +1960,7 @@
                 "open_issues": 83,
                 "owner": "supermacro",
                 "repo": "neverthrow",
-                "stars": 7745,
+                "stars": 7747,
                 "topics": [
                   "functional-programming",
                   "typescript"
@@ -2545,7 +2545,7 @@
             "open_issues": 7,
             "owner": "clojure",
             "repo": "clojurescript",
-            "stars": 9389,
+            "stars": 9390,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
@@ -2792,7 +2792,7 @@
                 "open_issues": 92,
                 "owner": "MostlyAdequate",
                 "repo": "mostly-adequate-guide",
-                "stars": 23814,
+                "stars": 23815,
                 "topics": [
                   "functional-programming",
                   "javascript",
@@ -2818,7 +2818,7 @@
                 "open_issues": 27,
                 "owner": "getify",
                 "repo": "Functional-Light-JS",
-                "stars": 16726,
+                "stars": 16725,
                 "topics": [
                   "book",
                   "education",
@@ -3228,7 +3228,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T23:26:14.289Z",
+    "last_updated": "2026-10-20T00:29:10.190Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome functional programming stuff in js",
