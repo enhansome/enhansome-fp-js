@@ -19,7 +19,7 @@
             "open_issues": 122,
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61287,
+            "stars": 61285,
             "topics": [
               "javascript",
               "lodash",
@@ -42,10 +42,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-12T00:34:57Z",
-            "open_issues": 164,
+            "open_issues": 163,
             "owner": "ramda",
             "repo": "ramda",
-            "stars": 24049,
+            "stars": 24050,
             "topics": [
               "javascript",
               "ramda"
@@ -65,11 +65,11 @@
             "id": 221458136,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T23:55:06Z",
-            "open_issues": 229,
+            "last_commit": "2026-10-22T00:03:22Z",
+            "open_issues": 116,
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 17340,
+            "stars": 17354,
             "topics": [
               "cli",
               "clustering",
@@ -137,7 +137,7 @@
             "open_issues": 50,
             "owner": "cujojs",
             "repo": "most",
-            "stars": 3484,
+            "stars": 3485,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
@@ -550,7 +550,7 @@
             "id": 219276883,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T16:45:37Z",
+            "last_commit": "2026-10-21T23:35:40Z",
             "open_issues": 54,
             "owner": "a-synchronous",
             "repo": "rubico",
@@ -671,7 +671,7 @@
             "open_issues": 0,
             "owner": "functionaljs",
             "repo": "functional-js",
-            "stars": 224,
+            "stars": 225,
             "topics": [
               "ai-friendly",
               "composition",
@@ -1588,7 +1588,7 @@
                 "open_issues": 150,
                 "owner": "immutable-js",
                 "repo": "immutable-js",
-                "stars": 33025,
+                "stars": 33026,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
@@ -1605,8 +1605,8 @@
                 "id": 115720575,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-20T18:49:46Z",
-                "open_issues": 50,
+                "last_commit": "2026-10-21T14:08:00Z",
+                "open_issues": 46,
                 "owner": "immerjs",
                 "repo": "immer",
                 "stars": 28988,
@@ -1960,7 +1960,7 @@
                 "open_issues": 83,
                 "owner": "supermacro",
                 "repo": "neverthrow",
-                "stars": 7749,
+                "stars": 7751,
                 "topics": [
                   "functional-programming",
                   "typescript"
@@ -2566,7 +2566,7 @@
             "open_issues": 292,
             "owner": "ghcjs",
             "repo": "ghcjs",
-            "stars": 2617,
+            "stars": 2616,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:26.568Z"
@@ -2818,7 +2818,7 @@
                 "open_issues": 27,
                 "owner": "getify",
                 "repo": "Functional-Light-JS",
-                "stars": 16725,
+                "stars": 16723,
                 "topics": [
                   "book",
                   "education",
@@ -2889,7 +2889,7 @@
                 "open_issues": 28,
                 "owner": "hemanth",
                 "repo": "functional-programming-jargon",
-                "stars": 18742,
+                "stars": 18743,
                 "topics": [
                   "awesome-list",
                   "education",
@@ -2955,7 +2955,7 @@
                 "open_issues": 10,
                 "owner": "sharkdp",
                 "repo": "cube-composer",
-                "stars": 2048,
+                "stars": 2049,
                 "topics": [
                   "browser-game",
                   "functional-programming",
@@ -3228,7 +3228,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T23:59:33.596Z",
+    "last_updated": "2026-10-22T00:04:31.521Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome functional programming stuff in js",
