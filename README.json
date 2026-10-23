@@ -42,7 +42,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-12T00:34:57Z",
-            "open_issues": 164,
+            "open_issues": 166,
             "owner": "ramda",
             "repo": "ramda",
             "stars": 24051,
@@ -65,11 +65,11 @@
             "id": 221458136,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T23:54:03Z",
-            "open_issues": 83,
+            "last_commit": "2026-10-23T19:17:34Z",
+            "open_issues": 82,
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 17357,
+            "stars": 17367,
             "topics": [
               "cli",
               "clustering",
@@ -101,10 +101,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-14T08:48:03Z",
-            "open_issues": 84,
+            "open_issues": 85,
             "owner": "gvergnaud",
             "repo": "ts-pattern",
-            "stars": 15194,
+            "stars": 15195,
             "topics": [
               "branching",
               "conditions",
@@ -189,7 +189,7 @@
             "open_issues": 6,
             "owner": "js-joda",
             "repo": "js-joda",
-            "stars": 1662,
+            "stars": 1663,
             "topics": [
               "date",
               "immutable",
@@ -333,8 +333,8 @@
             "id": 81263716,
             "language": "JavaScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-22T23:57:22Z",
-            "open_issues": 75,
+            "last_commit": "2026-10-23T23:52:52Z",
+            "open_issues": 76,
             "owner": "char0n",
             "repo": "ramda-adjunct",
             "stars": 687,
@@ -489,7 +489,7 @@
             "open_issues": 4,
             "owner": "TomerAberbach",
             "repo": "lfi",
-            "stars": 350,
+            "stars": 351,
             "topics": [
               "async",
               "concurrent",
@@ -1606,10 +1606,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-22T11:23:15Z",
-                "open_issues": 43,
+                "open_issues": 42,
                 "owner": "immerjs",
                 "repo": "immer",
-                "stars": 28989,
+                "stars": 28991,
                 "topics": [
                   "immutable",
                   "immutables",
@@ -1934,7 +1934,7 @@
                 "open_issues": 37,
                 "owner": "fantasyland",
                 "repo": "fantasy-land",
-                "stars": 10243,
+                "stars": 10242,
                 "topics": [
                   "fantasy-land",
                   "functional",
@@ -1960,7 +1960,7 @@
                 "open_issues": 83,
                 "owner": "supermacro",
                 "repo": "neverthrow",
-                "stars": 7753,
+                "stars": 7754,
                 "topics": [
                   "functional-programming",
                   "typescript"
@@ -2818,7 +2818,7 @@
                 "open_issues": 27,
                 "owner": "getify",
                 "repo": "Functional-Light-JS",
-                "stars": 16721,
+                "stars": 16722,
                 "topics": [
                   "book",
                   "education",
@@ -2889,7 +2889,7 @@
                 "open_issues": 28,
                 "owner": "hemanth",
                 "repo": "functional-programming-jargon",
-                "stars": 18742,
+                "stars": 18744,
                 "topics": [
                   "awesome-list",
                   "education",
@@ -3228,7 +3228,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T00:03:14.735Z",
+    "last_updated": "2026-10-23T23:54:18.766Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome functional programming stuff in js",
