@@ -19,7 +19,7 @@
             "open_issues": 126,
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61454,
+            "stars": 61300,
             "topics": [
               "javascript",
               "lodash",
@@ -45,7 +45,7 @@
             "open_issues": 182,
             "owner": "ramda",
             "repo": "ramda",
-            "stars": 24052,
+            "stars": 24053,
             "topics": [
               "javascript",
               "ramda"
@@ -65,11 +65,11 @@
             "id": 221458136,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T02:56:54Z",
-            "open_issues": 148,
+            "last_commit": "2026-11-19T02:21:04Z",
+            "open_issues": 162,
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 17596,
+            "stars": 17618,
             "topics": [
               "cli",
               "clustering",
@@ -154,8 +154,8 @@
             "id": 79035508,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-16T19:28:38Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-18T06:21:08Z",
+            "open_issues": 0,
             "owner": "selfrefactor",
             "repo": "rambda",
             "stars": 1759,
@@ -186,7 +186,7 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-11-11T18:04:27Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "js-joda",
             "repo": "js-joda",
             "stars": 1663,
@@ -234,8 +234,8 @@
             "id": 104394958,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-01T03:24:02Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-19T00:45:11Z",
+            "open_issues": 18,
             "owner": "true-myth",
             "repo": "true-myth",
             "stars": 1372,
@@ -337,7 +337,7 @@
             "open_issues": 75,
             "owner": "char0n",
             "repo": "ramda-adjunct",
-            "stars": 688,
+            "stars": 689,
             "topics": [
               "addons",
               "adjunct",
@@ -1585,7 +1585,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-17T11:24:35Z",
-                "open_issues": 158,
+                "open_issues": 159,
                 "owner": "immutable-js",
                 "repo": "immutable-js",
                 "stars": 33016,
@@ -1609,7 +1609,7 @@
                 "open_issues": 59,
                 "owner": "immerjs",
                 "repo": "immer",
-                "stars": 29003,
+                "stars": 29004,
                 "topics": [
                   "immutable",
                   "immutables",
@@ -1934,7 +1934,7 @@
                 "open_issues": 37,
                 "owner": "fantasyland",
                 "repo": "fantasy-land",
-                "stars": 10244,
+                "stars": 10245,
                 "topics": [
                   "fantasy-land",
                   "functional",
@@ -2792,7 +2792,7 @@
                 "open_issues": 92,
                 "owner": "MostlyAdequate",
                 "repo": "mostly-adequate-guide",
-                "stars": 23818,
+                "stars": 23817,
                 "topics": [
                   "functional-programming",
                   "javascript",
@@ -3228,7 +3228,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T02:59:45.094Z",
+    "last_updated": "2026-11-19T02:42:02.519Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome functional programming stuff in js",
