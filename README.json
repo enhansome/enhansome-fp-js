@@ -19,7 +19,7 @@
             "open_issues": 127,
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61345,
+            "stars": 61382,
             "topics": [
               "javascript",
               "lodash",
@@ -65,11 +65,11 @@
             "id": 221458136,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-25T03:01:20Z",
-            "open_issues": 158,
+            "last_commit": "2026-11-26T03:23:37Z",
+            "open_issues": 145,
             "owner": "Effect-TS",
             "repo": "effect",
-            "stars": 17674,
+            "stars": 17688,
             "topics": [
               "cli",
               "clustering",
@@ -185,8 +185,8 @@
             "id": 44402648,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T19:58:25Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-25T21:28:28Z",
+            "open_issues": 8,
             "owner": "js-joda",
             "repo": "js-joda",
             "stars": 1663,
@@ -1606,7 +1606,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-10T14:47:37Z",
-                "open_issues": 62,
+                "open_issues": 63,
                 "owner": "immerjs",
                 "repo": "immer",
                 "stars": 29003,
@@ -1636,7 +1636,7 @@
                 "open_issues": 59,
                 "owner": "dtao",
                 "repo": "lazy.js",
-                "stars": 5958,
+                "stars": 5956,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
@@ -1960,7 +1960,7 @@
                 "open_issues": 95,
                 "owner": "supermacro",
                 "repo": "neverthrow",
-                "stars": 7773,
+                "stars": 7775,
                 "topics": [
                   "functional-programming",
                   "typescript"
@@ -2408,7 +2408,7 @@
                 "open_issues": 3,
                 "owner": "jamesmcnamara",
                 "repo": "shades",
-                "stars": 417,
+                "stars": 416,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:31:26.568Z"
@@ -2587,7 +2587,7 @@
             "open_issues": 19,
             "owner": "elixirscript",
             "repo": "elixirscript",
-            "stars": 1566,
+            "stars": 1568,
             "topics": [
               "compiler",
               "elixir",
@@ -2792,7 +2792,7 @@
                 "open_issues": 92,
                 "owner": "MostlyAdequate",
                 "repo": "mostly-adequate-guide",
-                "stars": 23816,
+                "stars": 23817,
                 "topics": [
                   "functional-programming",
                   "javascript",
@@ -2889,7 +2889,7 @@
                 "open_issues": 28,
                 "owner": "hemanth",
                 "repo": "functional-programming-jargon",
-                "stars": 18744,
+                "stars": 18745,
                 "topics": [
                   "awesome-list",
                   "education",
@@ -3228,7 +3228,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T04:25:07.525Z",
+    "last_updated": "2026-11-26T03:40:50.530Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome functional programming stuff in js",
@@ -3240,7 +3240,7 @@
       "open_issues": 1,
       "owner": "stoeffel",
       "repo": "awesome-fp-js",
-      "stars": 6035,
+      "stars": 6034,
       "topics": []
     },
     "original_repository_sha": "f70c4c7906c1cad07bc143d899fee3f782bfcba7",
